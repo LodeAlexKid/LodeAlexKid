@@ -1,0 +1,3 @@
+#EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
+#EXTINF:-1,UA TV Обновлен 22.08.2020.- www.tva.in.ua
+http://95.67.106.242/hls/ua-tv_ua_mid/index.m3u8
