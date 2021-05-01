@@ -1,1 +1,5 @@
-
+#EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
+#EXTINF:-1,Pologne
+channels/pl.m3u
+#EXTINF:-1,UKRAINE
+channels/ua.m3u
