@@ -274,30 +274,7 @@ http://85.14.32.15:8800/udp/239.100.10.90:5000
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/gDvhUjSWJwPgFz6J8",[color red]•●★-----| SEGA 📺|-----★●•[/color]
 https://images.app.goo.gl/gDvhUjSWJwPgFz6J8
 
-#EXTINF:-1 tvg-id="" tvg-name="Aladin" tvg-logo="https://jemstreamingvqchome.files.wordpress.com/2020/05/3b14d016ec6f69e20a3b80a90d2e80cb-3.jpg?w=286" group-title="DISNEY", Aladin
-https://channelstream.watch/planete.php
 
-@echo on
-rem DISNEY - Aladin
-youtube-dl "https://www.youtube.com/watch?v=kGyS2-rZsC0" best -o Aladin.mp4
-pause
-rem Arte - Philosophie - Langage
-youtube-dl "https://www.youtube.com/watch?v=SVgAkv8h4FQ" best -o Langage.mp4
-pause
-
-
-
-#EXTINF:-1 tvg-id="1" tvg-name="Rock:  group-title="MUSIC",FR: ACDC
-https://www.sinj.com/sounds/mp3s/Rock/ACDC/AC-DC%20-%20Problem%20Child.mp3
-https://www.sinj.com/sounds/mp3s/Rock/ACDC/AC-DC%20-%20Who%20Made%20Who.mp3
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="dmcdrama.eg" tvg-name=" BS: beIN SPORT-1 4K" tvg-logo="http://tvstar.live:8880/chimg/1097211873.png" group-title="Bein Sports FHD & 4K", BS: beIN SPORT-1 4K
-http://tvstar.live:8880/ammar610077/668488/61303
 
 
 #EXTINF:-1 tvg-id="" tvg-name="FR: FOOT+ 24 HD" tvg-logo="" group-title="France",FR: FOOT+ 24 HD
