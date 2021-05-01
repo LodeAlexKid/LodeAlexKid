@@ -20,10 +20,13 @@ https://ptiptv.tk/rtp1.m3u8?OknNVJabbhv2u1BUzqqX0FmeTOs
 #PLAYLIST:Pologne 2
 
 #EXTINF:-1 group-title="polska🇵🇱"
-channels/pl.mu3
+https://raw.githubusercontent.com/LodeAlexKid/LodeAlexKid/main/channels/pl.m3u?token=AEEUF66TKIIZSBXOO7BQYL3ART34K
+
+
 
 
 ##   Filmes Curtas Metragens   ##
 
-#EXTINF:-1 group-title="pol🇵🇱"
+#EXTINF:-1 group-title="pols🇱"
+https://raw.githubusercontent.com/LodeAlexKid/LodeAlexKid/main/channels/pl.m3u?token=AEEUF66TKIIZSBXOO7BQYL3ART34K
 
