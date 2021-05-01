@@ -6,6 +6,14 @@ https://images.app.goo.gl/gDvhUjSWJwPgFz6J8
 #EXTINF:-1 tvg-id="" tvg-name="Aladin" tvg-logo="https://jemstreamingvqchome.files.wordpress.com/2020/05/3b14d016ec6f69e20a3b80a90d2e80cb-3.jpg?w=286" group-title="DISNEY", Aladin
 https://www.youtube.com/watch?v=kGyS2-rZsC0
 
+@echo on
+rem DISNEY - Aladin
+youtube-dl "https://www.youtube.com/watch?v=kGyS2-rZsC0" best -o Aladin.mp4
+pause
+rem Arte - Philosophie - Langage
+youtube-dl "https://www.youtube.com/watch?v=SVgAkv8h4FQ" best -o Langage.mp4
+pause
+
 
 
 #EXTINF:-1 tvg-id="1" tvg-name="Rock:  group-title="MUSIC",FR: ACDC
