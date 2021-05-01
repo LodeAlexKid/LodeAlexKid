@@ -1,5 +1,7 @@
 #EXTM3U 
+
 #PLAYLIST:Pologne 🇵🇱
+
 #EXTINF:-1 group-title="polska🇵🇱" , Pologne 🇵🇱 
 #EXTINF:-1 tvg-id="dlaCiebietv.pl" tvg-name="dlaCiebie.tv" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/N318K6a.jpg" group-title="",dlaCiebie.tv (720p)
 http://94.246.128.53:1935/tv/_definst_/dlaCiebieTv/playlist.m3u8
@@ -7,3 +9,10 @@ http://94.246.128.53:1935/tv/_definst_/dlaCiebieTv/playlist.m3u8
 http://live.ezotv.pl:1935/live/EZOTV/playlist.m3u8
 #EXTINF:-1 tvg-id="SferaTV.pl" tvg-name="Sfera TV" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/kgE2maL.jpg" group-title="",Sfera TV (480p)
 http://stream.sferatv.pl:1935/sferalive/smil:sferalive.smil/playlist.m3u8
+
+
+#PLAYLIST:Portugal
+
+#EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="RTP1" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp1-hd.png",RTP 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
+https://ptiptv.tk/rtp1.m3u8?OknNVJabbhv2u1BUzqqX0FmeTOs
