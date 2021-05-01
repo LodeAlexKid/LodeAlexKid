@@ -3,3 +3,5 @@
 channels/pl.m3u
 #EXTINF:-1,UKRAINE
 channels/ua.m3u
+#EXTINF:-1 group-title="polska🇵🇱" , Pologne 🇵🇱 
+channels/ua.m3u
