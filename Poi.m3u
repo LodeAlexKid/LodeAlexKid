@@ -1,0 +1,141 @@
+ #EXTM3U
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/201.png",Canal+ Cinema
+http://vvn.neoredi.com/iptv/ch201?code=1501309316704233&key=26546
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/204.png",Canal+ Family
+http://vvn.neoredi.com/iptv/ch204?code=1501309316704233&key=31829
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/202.png",Canal+ Sport
+http://vvn.neoredi.com/iptv/ch202?code=1501309316704233&key=50378
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/203.png",Canal+ Decale
+http://vvn.neoredi.com/iptv/ch203?code=1501309316704233&key=15169
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/205.png",Canal+ series HD
+http://vvn.neoredi.com/iptv/ch205?code=1501309316704233&key=55084
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1113.png",TCM FR
+http://vvn.neoredi.com/iptv/ch1113?code=1501309316704233&key=40210
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/271.png",Action HD
+http://vvn.neoredi.com/iptv/ch271?code=1501309316704233&key=44502
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1108.png",Paramount ch. FR
+http://vvn.neoredi.com/iptv/ch1108?code=1501309316704233&key=54561
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/286.png",Polar Plus FR
+http://vvn.neoredi.com/iptv/ch286?code=1501309316704233&key=22427
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/285.png",Warner TV FR
+http://vvn.neoredi.com/iptv/ch285?code=1501309316704233&key=13637
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/233.png",Serie Club HD
+http://vvn.neoredi.com/iptv/ch233?code=1501309316704233&key=16734
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/256.png",13 eme Rue
+http://vvn.neoredi.com/iptv/ch256?code=1501309316704233&key=39383
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/251.png",Tv Breizh
+http://vvn.neoredi.com/iptv/ch251?code=1501309316704233&key=42587
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/4207.png",TF1 HD +4
+http://vvn.neoredi.com/iptv/ch4207?code=1501309316704233&key=38307
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/4209.png",France 2 HD +4
+http://vvn.neoredi.com/iptv/ch4209?code=1501309316704233&key=46814
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/4208.png",M6 HD +4
+http://vvn.neoredi.com/iptv/ch4208?code=1501309316704233&key=54872
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/4220.png",W9 HD +4
+http://vvn.neoredi.com/iptv/ch4220?code=1501309316704233&key=59169
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/282.png",RTL 9
+http://vvn.neoredi.com/iptv/ch282?code=1501309316704233&key=59365
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/284.png",AB 1
+http://vvn.neoredi.com/iptv/ch284?code=1501309316704233&key=64307
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1652.png",AB 3
+http://vvn.neoredi.com/iptv/ch1652?code=1501309316704233&key=22563
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/230.png",TEVA HD
+http://vvn.neoredi.com/iptv/ch230?code=1501309316704233&key=16524
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1297.png",Viceland Fr.
+http://vvn.neoredi.com/iptv/ch1297?code=1501309316704233&key=48410
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1298.png",Season Fr.
+http://vvn.neoredi.com/iptv/ch1298?code=1501309316704233&key=52112
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/390.png",Crime District Fr.
+http://vvn.neoredi.com/iptv/ch390?code=1501309316704233&key=25447
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/380.png",My Cuisine TV HD
+http://vvn.neoredi.com/iptv/ch380?code=1501309316704233&key=49503
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/242.png",Ushuaia TV HD
+http://vvn.neoredi.com/iptv/ch242?code=1501309316704233&key=36384
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/235.png",NAT GEO HD Fr.
+http://vvn.neoredi.com/iptv/ch235?code=1501309316704233&key=43018
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/238.png",NATGEO WILD HD Fr.
+http://vvn.neoredi.com/iptv/ch238?code=1501309316704233&key=62508
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/234.png",Planet Plus HD
+http://vvn.neoredi.com/iptv/ch234?code=1501309316704233&key=50453
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/225.png",Planet Plus AE HD
+http://vvn.neoredi.com/iptv/ch225?code=1501309316704233&key=60294
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/287.png",Planet Plus CI HD
+http://vvn.neoredi.com/iptv/ch287?code=1501309316704233&key=47790
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/236.png",Voyage Fr.
+http://vvn.neoredi.com/iptv/ch236?code=1501309316704233&key=21377
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/379.png",Discovery Family HD Fr.
+http://vvn.neoredi.com/iptv/ch379?code=1501309316704233&key=41745
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/229.png",Discovery Science HD Fr.
+http://vvn.neoredi.com/iptv/ch229?code=1501309316704233&key=20167
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/241.png",Discovery Show Case Fr.
+http://vvn.neoredi.com/iptv/ch241?code=1501309316704233&key=35668
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/249.png",Discovery ID Fr.
+http://vvn.neoredi.com/iptv/ch249?code=1501309316704233&key=10522
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/739.png",RMC Decouverte
+http://vvn.neoredi.com/iptv/ch739?code=1501309316704233&key=27783
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/280.png",Histoire
+http://vvn.neoredi.com/iptv/ch280?code=1501309316704233&key=40864
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/247.png",RMC Story
+http://vvn.neoredi.com/iptv/ch247?code=1501309316704233&key=47827
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/283.png",Chasse et Peche
+http://vvn.neoredi.com/iptv/ch283?code=1501309316704233&key=48044
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/279.png",Trek
+http://vvn.neoredi.com/iptv/ch279?code=1501309316704233&key=36050
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/278.png",Sciences et vie
+http://vvn.neoredi.com/iptv/ch278?code=1501309316704233&key=43428
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/277.png",Animaux
+http://vvn.neoredi.com/iptv/ch277?code=1501309316704233&key=57569
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/264.png",Comedie
+http://vvn.neoredi.com/iptv/ch264?code=1501309316704233&key=52716
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/223.png",C-8
+http://vvn.neoredi.com/iptv/ch223?code=1501309316704233&key=44139
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/214.png",NRJ 12
+http://vvn.neoredi.com/iptv/ch214?code=1501309316704233&key=52449
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/228.png",C-Star
+http://vvn.neoredi.com/iptv/ch228?code=1501309316704233&key=55566
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/267.png",Equipe 21
+http://vvn.neoredi.com/iptv/ch267?code=1501309316704233&key=46605
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/248.png",Cherie 25
+http://vvn.neoredi.com/iptv/ch248?code=1501309316704233&key=52840
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/237.png",SYFY HD
+http://vvn.neoredi.com/iptv/ch237?code=1501309316704233&key=25897
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/213.png",NT 1
+http://vvn.neoredi.com/iptv/ch213?code=1501309316704233&key=35452
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/217.png",TMC
+http://vvn.neoredi.com/iptv/ch217?code=1501309316704233&key=56078
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/274.png",Paris Premiere
+http://vvn.neoredi.com/iptv/ch274?code=1501309316704233&key=63907
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/216.png",ARTE
+http://vvn.neoredi.com/iptv/ch216?code=1501309316704233&key=25727
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/292.png",France Info
+http://vvn.neoredi.com/iptv/ch292?code=1501309316704233&key=47429
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/299.png",C-News
+http://vvn.neoredi.com/iptv/ch299?code=1501309316704233&key=51996
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1646.png",I24 Fr.
+http://vvn.neoredi.com/iptv/ch1646?code=1501309316704233&key=50932
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/298.png",LCI
+http://vvn.neoredi.com/iptv/ch298?code=1501309316704233&key=47725
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/218.png",BFM TV
+http://vvn.neoredi.com/iptv/ch218?code=1501309316704233&key=24717
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/375.png",BFM Paris
+http://vvn.neoredi.com/iptv/ch375?code=1501309316704233&key=39076
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/263.png",BFM Business
+http://vvn.neoredi.com/iptv/ch263?code=1501309316704233&key=28548
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/245.png",LCP
+http://vvn.neoredi.com/iptv/ch245?code=1501309316704233&key=37623
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1653.png",Mezzo Fr.
+http://vvn.neoredi.com/iptv/ch1653?code=1501309316704233&key=50710
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1650.png",RFM Fr.
+http://vvn.neoredi.com/iptv/ch1650?code=1501309316704233&key=41223
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1107.png",MCM Top
+http://vvn.neoredi.com/iptv/ch1107?code=1501309316704233&key=57385
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/293.png",Melody Fr.
+http://vvn.neoredi.com/iptv/ch293?code=1501309316704233&key=59804
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/224.png",MTV FR
+http://vvn.neoredi.com/iptv/ch224?code=1501309316704233&key=27696
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/246.png",MTV Hits
+http://vvn.neoredi.com/iptv/ch246?code=1501309316704233&key=44739
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/395.png",Piwi Fr.
+http://vvn.neoredi.com/iptv/ch395?code=1501309316704233&key=14814
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/391.png",Toonami
+http://vvn.neoredi.com/iptv/ch391?
