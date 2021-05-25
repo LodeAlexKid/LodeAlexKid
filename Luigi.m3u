@@ -1,7 +1,7 @@
 #EXTM3U 
 group,FRANCE 
 
-#EXTINF:-1 tvg-id="TF1" group-title="France",
+#EXTINF:-1,TF1
 http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/17590.m3u8
 #EXTINF:-1,TF1 Series Films
 http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/17591.m3u8
@@ -20,7 +20,8 @@ M6MusicHits.fr,FR: M6 MUSIC FHD,http://bestiptvchannels.com:2052/yaminoshinen/pn
 ext,FR M6 Music HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7859
 13RUE.fr,FR: 13 EME RUE FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7630
 6ter.fr,FR: 6ter FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7631
-France2.fr,FR: FRANCE 2 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7817
+
+#EXTINF:-1,FRANCE 2 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7817
 France3.fr,FR: FRANCE 3 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7818
 France4.fr,FR: FRANCE 4 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7819
 France5.fr,FR: FRANCE 5 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7820
