@@ -1,819 +1,433 @@
-#EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-
-#EXTINF:-1, tvg-id="************SPORTS**************" tvg-logo="Logo N/A" tvg-name="************SPORTS**************"  group-title="Sport",************SPORTS**************
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/529
-
-#EXTINF:-1, tvg-id="Arena Sport 1 Srb" tvg-logo="Logo N/A" tvg-name="Arena Sport 1 Srb"  group-title="Sport",Arena Sport 1 Srb
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/141
-
-#EXTINF:-1, tvg-id="Arena Sport 2 Srb" tvg-logo="Logo N/A" tvg-name="Arena Sport 2 Srb"  group-title="Sport",Arena Sport 2 Srb
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/142
-
-#EXTINF:-1, tvg-id="Arena Sport 3 Srb" tvg-logo="Logo N/A" tvg-name="Arena Sport 3 Srb"  group-title="Sport",Arena Sport 3 Srb
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/143
-
-#EXTINF:-1, tvg-id="Arena Sport 4 Srb" tvg-logo="Logo N/A" tvg-name="Arena Sport 4 Srb"  group-title="Sport",Arena Sport 4 Srb
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/178
-
-#EXTINF:-1, tvg-id="Arena Sport 5 Srb" tvg-logo="Logo N/A" tvg-name="Arena Sport 5 Srb"  group-title="Sport",Arena Sport 5 Srb
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/238
-
-#EXTINF:-1, tvg-id="Arena Sports 1 HD Croatia" tvg-logo="Logo N/A" tvg-name="Arena Sports 1 HD Croatia"  group-title="Sport",Arena Sports 1 HD Croatia
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/206
-
-#EXTINF:-1, tvg-id="Arena Sports 2 HD Croatia" tvg-logo="Logo N/A" tvg-name="Arena Sports 2 HD Croatia"  group-title="Sport",Arena Sports 2 HD Croatia
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/207
-
-#EXTINF:-1, tvg-id="Arena Sports 3 HD Croatia" tvg-logo="Logo N/A" tvg-name="Arena Sports 3 HD Croatia"  group-title="Sport",Arena Sports 3 HD Croatia
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/208
-
-#EXTINF:-1, tvg-id="Arena Sports 4 HD Croatia" tvg-logo="Logo N/A" tvg-name="Arena Sports 4 HD Croatia"  group-title="Sport",Arena Sports 4 HD Croatia
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/209
-
-#EXTINF:-1, tvg-id="Arena Sports 5 HD Croatia" tvg-logo="Logo N/A" tvg-name="Arena Sports 5 HD Croatia"  group-title="Sport",Arena Sports 5 HD Croatia
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/505
-
-#EXTINF:-1, tvg-id="Sport Klub 1 Cro" tvg-logo="Logo N/A" tvg-name="Sport Klub 1 Cro"  group-title="Sport",Sport Klub 1 Cro
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/117
-
-#EXTINF:-1, tvg-id="Sport Klub 2 Cro" tvg-logo="Logo N/A" tvg-name="Sport Klub 2 Cro"  group-title="Sport",Sport Klub 2 Cro
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/118
-
-#EXTINF:-1, tvg-id="Sport Klub 3 Cro" tvg-logo="Logo N/A" tvg-name="Sport Klub 3 Cro"  group-title="Sport",Sport Klub 3 Cro
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/119
-
-#EXTINF:-1, tvg-id="Sport Klub HD 1 Srb" tvg-logo="Logo N/A" tvg-name="Sport Klub HD 1 Srb"  group-title="Sport",Sport Klub HD 1 Srb
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/226
-
-#EXTINF:-1, tvg-id="Sport Klub HD 2 Srb" tvg-logo="Logo N/A" tvg-name="Sport Klub HD 2 Srb"  group-title="Sport",Sport Klub HD 2 Srb
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/339
-
-#EXTINF:-1, tvg-id="Sport Klub HD 3 Srb" tvg-logo="Logo N/A" tvg-name="Sport Klub HD 3 Srb"  group-title="Sport",Sport Klub HD 3 Srb
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/417
-
-#EXTINF:-1, tvg-id="HNTV" tvg-logo="Logo N/A" tvg-name="HNTV"  group-title="Sport",HNTV
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/676
-
-#EXTINF:-1, tvg-id="Sky Bundesliga DE" tvg-logo="Logo N/A" tvg-name="Sky Bundesliga DE"  group-title="Sport",Sky Bundesliga DE
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/97
-
-#EXTINF:-1, tvg-id="Sky Bundesliga 2 HD DE" tvg-logo="Logo N/A" tvg-name="Sky Bundesliga 2 HD DE"  group-title="Sport",Sky Bundesliga 2 HD DE
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/622
-
-#EXTINF:-1, tvg-id="Sky Sport 1 HD DE" tvg-logo="Logo N/A" tvg-name="Sky Sport 1 HD DE"  group-title="Sport",Sky Sport 1 HD DE
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/155
-
-#EXTINF:-1, tvg-id="Sky Sport 2 HD DE" tvg-logo="Logo N/A" tvg-name="Sky Sport 2 HD DE"  group-title="Sport",Sky Sport 2 HD DE
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/156
-
-#EXTINF:-1, tvg-id="DAZN 1 Bar HD DE" tvg-logo="Logo N/A" tvg-name="DAZN 1 Bar HD DE"  group-title="Sport",DAZN 1 Bar HD DE
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/671
-
-#EXTINF:-1, tvg-id="DAZN 2 Bar HD DE" tvg-logo="Logo N/A" tvg-name="DAZN 2 Bar HD DE"  group-title="Sport",DAZN 2 Bar HD DE
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/672
-
-#EXTINF:-1, tvg-id="Eurosport  1 Cro" tvg-logo="Logo N/A" tvg-name="Eurosport  1 Cro"  group-title="Sport",Eurosport  1 Cro
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/151
-
-#EXTINF:-1, tvg-id="Eurosport 2 Cro" tvg-logo="Logo N/A" tvg-name="Eurosport 2 Cro"  group-title="Sport",Eurosport 2 Cro
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/152
-
-#EXTINF:-1, tvg-id="Bein Sports 1 HD FR" tvg-logo="Logo N/A" tvg-name="Bein Sports 1 HD FR"  group-title="Sport",Bein Sports 1 HD FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/489
-
-#EXTINF:-1, tvg-id="Bein Sports 2 HD FR" tvg-logo="Logo N/A" tvg-name="Bein Sports 2 HD FR"  group-title="Sport",Bein Sports 2 HD FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/490
-
-#EXTINF:-1, tvg-id="Bein Sports 3 HD FR" tvg-logo="Logo N/A" tvg-name="Bein Sports 3 HD FR"  group-title="Sport",Bein Sports 3 HD FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/491
-
-#EXTINF:-1, tvg-id="Fox Sports 1 NL" tvg-logo="Logo N/A" tvg-name="Fox Sports 1 NL"  group-title="Sport",Fox Sports 1 NL
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/508
-
-#EXTINF:-1, tvg-id="Fox Sports 2 NL" tvg-logo="Logo N/A" tvg-name="Fox Sports 2 NL"  group-title="Sport",Fox Sports 2 NL
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/509
-
-#EXTINF:-1, tvg-id="Fox Sports 3 NL" tvg-logo="Logo N/A" tvg-name="Fox Sports 3 NL"  group-title="Sport",Fox Sports 3 NL
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/510
-
-#EXTINF:-1, tvg-id="Fox Sports 4 NL" tvg-logo="Logo N/A" tvg-name="Fox Sports 4 NL"  group-title="Sport",Fox Sports 4 NL
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/511
-
-#EXTINF:-1, tvg-id="Fox Sports 5 NL" tvg-logo="Logo N/A" tvg-name="Fox Sports 5 NL"  group-title="Sport",Fox Sports 5 NL
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/512
-
-#EXTINF:-1, tvg-id="************ FRANCE **************" tvg-logo="Logo N/A" tvg-name="************ FRANCE **************"  group-title="France",************ FRANCE **************
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/701
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal+ HD (FR)"  group-title="France",Canal+ HD (FR)
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/702
-
-#EXTINF:-1, tvg-id="Canal+ Cinema HD (FR)" tvg-logo="Logo N/A" tvg-name="Canal+ Cinema HD (FR)"  group-title="France",Canal+ Cinema HD (FR)
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/703
-
-#EXTINF:-1, tvg-id="CinÃ© Plus Premier HD (FR)" tvg-logo="Logo N/A" tvg-name="CinÃ© Plus Premier HD (FR)"  group-title="France",CinÃ© Plus Premier HD (FR)
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/704
-
-#EXTINF:-1, tvg-id="Cine Plus Frisson HD (FR)" tvg-logo="Logo N/A" tvg-name="Cine Plus Frisson HD (FR)"  group-title="France",Cine Plus Frisson HD (FR)
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/705
-
-#EXTINF:-1, tvg-id="Cine Plus Emotion HD (FR)" tvg-logo="Logo N/A" tvg-name="Cine Plus Emotion HD (FR)"  group-title="France",Cine Plus Emotion HD (FR)
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/706
-
-#EXTINF:-1, tvg-id="Comedie Plus HD (FR)" tvg-logo="Logo N/A" tvg-name="Comedie Plus HD (FR)"  group-title="France",Comedie Plus HD (FR)
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/707
-
-#EXTINF:-1, tvg-id="Canal+ Decale HD (FR)" tvg-logo="Logo N/A" tvg-name="Canal+ Decale HD (FR)"  group-title="France",Canal+ Decale HD (FR)
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/708
-
-#EXTINF:-1, tvg-id="Canal Plus Family HD (FR)" tvg-logo="Logo N/A" tvg-name="Canal Plus Family HD (FR)"  group-title="France",Canal Plus Family HD (FR)
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/709
-
-#EXTINF:-1, tvg-id="CinÃ© Classic HD FR" tvg-logo="Logo N/A" tvg-name="CinÃ© Classic HD FR"  group-title="France",CinÃ© Classic HD FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/710
-
-#EXTINF:-1, tvg-id="Cine Polar FR" tvg-logo="Logo N/A" tvg-name="Cine Polar FR"  group-title="France",Cine Polar FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/711
-
-#EXTINF:-1, tvg-id="ACTION HD FR" tvg-logo="Logo N/A" tvg-name="ACTION HD FR"  group-title="France",ACTION HD FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/712
-
-#EXTINF:-1, tvg-id="CSTAR HD FR" tvg-logo="Logo N/A" tvg-name="CSTAR HD FR"  group-title="France",CSTAR HD FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/713
-
-#EXTINF:-1, tvg-id="Comedie HD FR" tvg-logo="Logo N/A" tvg-name="Comedie HD FR"  group-title="France",Comedie HD FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/714
-
-#EXTINF:-1, tvg-id="OCS MAX HD FR" tvg-logo="Logo N/A" tvg-name="OCS MAX HD FR"  group-title="France",OCS MAX HD FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/715
-
-#EXTINF:-1, tvg-id="OCS GEANTS HD FR" tvg-logo="Logo N/A" tvg-name="OCS GEANTS HD FR"  group-title="France",OCS GEANTS HD FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/716
-
-#EXTINF:-1, tvg-id="OCS CHOC HD FR" tvg-logo="Logo N/A" tvg-name="OCS CHOC HD FR"  group-title="France",OCS CHOC HD FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/717
-
-#EXTINF:-1, tvg-id="Canal+ Series HD FR" tvg-logo="Logo N/A" tvg-name="Canal+ Series HD FR"  group-title="France",Canal+ Series HD FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/718
-
-#EXTINF:-1, tvg-id="SyFy Universal HD Fr" tvg-logo="Logo N/A" tvg-name="SyFy Universal HD Fr"  group-title="France",SyFy Universal HD Fr
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/719
-
-#EXTINF:-1, tvg-id="PARIS PREMIERE HD FR" tvg-logo="Logo N/A" tvg-name="PARIS PREMIERE HD FR"  group-title="France",PARIS PREMIERE HD FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/720
-
-#EXTINF:-1, tvg-id="Paramount Channel HD Fr" tvg-logo="Logo N/A" tvg-name="Paramount Channel HD Fr"  group-title="France",Paramount Channel HD Fr
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/721
-
-#EXTINF:-1, tvg-id="TCM FR" tvg-logo="Logo N/A" tvg-name="TCM FR"  group-title="France",TCM FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/722
-
-#EXTINF:-1, tvg-id="France Info HD" tvg-logo="Logo N/A" tvg-name="France Info HD"  group-title="France",France Info HD
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/723
-
-#EXTINF:-1, tvg-id="France 2 (FR)" tvg-logo="Logo N/A" tvg-name="France 2 (FR)"  group-title="France",France 2 (FR)
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/724
-
-#EXTINF:-1, tvg-id="France 3 (FR)" tvg-logo="Logo N/A" tvg-name="France 3 (FR)"  group-title="France",France 3 (FR)
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/725
-
-#EXTINF:-1, tvg-id="France 4 (FR)" tvg-logo="Logo N/A" tvg-name="France 4 (FR)"  group-title="France",France 4 (FR)
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/726
-
-#EXTINF:-1, tvg-id="France 5 (FR)" tvg-logo="Logo N/A" tvg-name="France 5 (FR)"  group-title="France",France 5 (FR)
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/727
-
-#EXTINF:-1, tvg-id="FRANCE 24 (FR)" tvg-logo="Logo N/A" tvg-name="FRANCE 24 (FR)"  group-title="France",FRANCE 24 (FR)
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/728
-
-#EXTINF:-1, tvg-id="13eme Rue HD FR" tvg-logo="Logo N/A" tvg-name="13eme Rue HD FR"  group-title="France",13eme Rue HD FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/729
-
-#EXTINF:-1, tvg-id="W9 HD (FR)" tvg-logo="Logo N/A" tvg-name="W9 HD (FR)"  group-title="France",W9 HD (FR)
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/730
-
-#EXTINF:-1, tvg-id="HD1 FR" tvg-logo="Logo N/A" tvg-name="HD1 FR"  group-title="France",HD1 FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/731
-
-#EXTINF:-1, tvg-id="TFX FR" tvg-logo="Logo N/A" tvg-name="TFX FR"  group-title="France",TFX FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/732
-
-#EXTINF:-1, tvg-id="TFI 1 HD FR" tvg-logo="Logo N/A" tvg-name="TFI 1 HD FR"  group-title="France",TFI 1 HD FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/733
-
-#EXTINF:-1, tvg-id="RTL 9 FR" tvg-logo="Logo N/A" tvg-name="RTL 9 FR"  group-title="France",RTL 9 FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/734
-
-#EXTINF:-1, tvg-id="NRJ 12 Fr" tvg-logo="Logo N/A" tvg-name="NRJ 12 Fr"  group-title="France",NRJ 12 Fr
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/735
-
-#EXTINF:-1, tvg-id="MTV HD France" tvg-logo="Logo N/A" tvg-name="MTV HD France"  group-title="France",MTV HD France
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/736
-
-#EXTINF:-1, tvg-id="M6 (FR)" tvg-logo="Logo N/A" tvg-name="M6 (FR)"  group-title="France",M6 (FR)
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/737
-
-#EXTINF:-1, tvg-id="E! FR" tvg-logo="Logo N/A" tvg-name="E! FR"  group-title="France",E! FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/738
-
-#EXTINF:-1, tvg-id="Arte HD Fr" tvg-logo="Logo N/A" tvg-name="Arte HD Fr"  group-title="France",Arte HD Fr
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/739
-
-#EXTINF:-1, tvg-id="Cartoon Network Fr" tvg-logo="Logo N/A" tvg-name="Cartoon Network Fr"  group-title="France",Cartoon Network Fr
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/740
-
-#EXTINF:-1, tvg-id="Boomerang FR" tvg-logo="Logo N/A" tvg-name="Boomerang FR"  group-title="France",Boomerang FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/741
-
-#EXTINF:-1, tvg-id="Teletoon+ HD FR" tvg-logo="Logo N/A" tvg-name="Teletoon+ HD FR"  group-title="France",Teletoon+ HD FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/742
-
-#EXTINF:-1, tvg-id="DISNEY XD FR" tvg-logo="Logo N/A" tvg-name="DISNEY XD FR"  group-title="France",DISNEY XD FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/743
-
-#EXTINF:-1, tvg-id="DISNEY JUNIOR FR" tvg-logo="Logo N/A" tvg-name="DISNEY JUNIOR FR"  group-title="France",DISNEY JUNIOR FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/744
-
-#EXTINF:-1, tvg-id="Manga TV FR" tvg-logo="Logo N/A" tvg-name="Manga TV FR"  group-title="France",Manga TV FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/745
-
-#EXTINF:-1, tvg-id="GULLI FR" tvg-logo="Logo N/A" tvg-name="GULLI FR"  group-title="France",GULLI FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/746
-
-#EXTINF:-1, tvg-id="CANAL J HD FR" tvg-logo="Logo N/A" tvg-name="CANAL J HD FR"  group-title="France",CANAL J HD FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/747
-
-#EXTINF:-1, tvg-id="Discovery HD FR" tvg-logo="Logo N/A" tvg-name="Discovery HD FR"  group-title="France",Discovery HD FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/748
-
-#EXTINF:-1, tvg-id="Discovery Science HD FR" tvg-logo="Logo N/A" tvg-name="Discovery Science HD FR"  group-title="France",Discovery Science HD FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/749
-
-#EXTINF:-1, tvg-id="National Geo WILD HD FR" tvg-logo="Logo N/A" tvg-name="National Geo WILD HD FR"  group-title="France",National Geo WILD HD FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/750
-
-#EXTINF:-1, tvg-id="History Channel FR" tvg-logo="Logo N/A" tvg-name="History Channel FR"  group-title="France",History Channel FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/751
-
-#EXTINF:-1, tvg-id="PLANETE HD FR" tvg-logo="Logo N/A" tvg-name="PLANETE HD FR"  group-title="France",PLANETE HD FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/752
-
-#EXTINF:-1, tvg-id="Animaux HD FR" tvg-logo="Logo N/A" tvg-name="Animaux HD FR"  group-title="France",Animaux HD FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/753
-
-#EXTINF:-1, tvg-id="Chasse & Peche FR" tvg-logo="Logo N/A" tvg-name="Chasse & Peche FR"  group-title="France",Chasse & Peche FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/754
-
-#EXTINF:-1, tvg-id="USHUAIA TV HD FR" tvg-logo="Logo N/A" tvg-name="USHUAIA TV HD FR"  group-title="France",USHUAIA TV HD FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/755
-
-#EXTINF:-1, tvg-id="RTS Un HD" tvg-logo="Logo N/A" tvg-name="RTS Un HD"  group-title="France",RTS Un HD
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/756
-
-#EXTINF:-1, tvg-id="RTS Deux HD" tvg-logo="Logo N/A" tvg-name="RTS Deux HD"  group-title="France",RTS Deux HD
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/757
-
-#EXTINF:-1, tvg-id="6TER HD FR" tvg-logo="Logo N/A" tvg-name="6TER HD FR"  group-title="France",6TER HD FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/758
-
-#EXTINF:-1, tvg-id="AB1 FR" tvg-logo="Logo N/A" tvg-name="AB1 FR"  group-title="France",AB1 FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/759
-
-#EXTINF:-1, tvg-id="BFM TV FR" tvg-logo="Logo N/A" tvg-name="BFM TV FR"  group-title="France",BFM TV FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/760
-
-#EXTINF:-1, tvg-id="C8 HD FR" tvg-logo="Logo N/A" tvg-name="C8 HD FR"  group-title="France",C8 HD FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/761
-
-#EXTINF:-1, tvg-id="Cherie 25 HD FR" tvg-logo="Logo N/A" tvg-name="Cherie 25 HD FR"  group-title="France",Cherie 25 HD FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/762
-
-#EXTINF:-1, tvg-id="Game One FR" tvg-logo="Logo N/A" tvg-name="Game One FR"  group-title="France",Game One FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/763
-
-#EXTINF:-1, tvg-id="LCI HD FR" tvg-logo="Logo N/A" tvg-name="LCI HD FR"  group-title="France",LCI HD FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/764
-
-#EXTINF:-1, tvg-id="Numero 23 FR" tvg-logo="Logo N/A" tvg-name="Numero 23 FR"  group-title="France",Numero 23 FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/765
-
-#EXTINF:-1, tvg-id="RMC Decouverte HD FR" tvg-logo="Logo N/A" tvg-name="RMC Decouverte HD FR"  group-title="France",RMC Decouverte HD FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/766
-
-#EXTINF:-1, tvg-id="Teva TV FR" tvg-logo="Logo N/A" tvg-name="Teva TV FR"  group-title="France",Teva TV FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/767
-
-#EXTINF:-1, tvg-id="TV Breizh HD FR" tvg-logo="Logo N/A" tvg-name="TV Breizh HD FR"  group-title="France",TV Breizh HD FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/768
-
-#EXTINF:-1, tvg-id="CANALPLAY 1 FR" tvg-logo="Logo N/A" tvg-name="CANALPLAY 1 FR"  group-title="Films",CANALPLAY 1 FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/769
-
-#EXTINF:-1, tvg-id="CANALPLAY 2 FR" tvg-logo="Logo N/A" tvg-name="CANALPLAY 2 FR"  group-title="Films",CANALPLAY 2 FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/770
-
-#EXTINF:-1, tvg-id="CANALPLAY 3 FR" tvg-logo="Logo N/A" tvg-name="CANALPLAY 3 FR"  group-title="Films",CANALPLAY 3 FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/771
-
-#EXTINF:-1, tvg-id="CANALPLAY 4 FR" tvg-logo="Logo N/A" tvg-name="CANALPLAY 4 FR"  group-title="Films",CANALPLAY 4 FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/772
-
-#EXTINF:-1, tvg-id="CANALPLAY 5 FR" tvg-logo="Logo N/A" tvg-name="CANALPLAY 5 FR"  group-title="Films",CANALPLAY 5 FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/773
-
-#EXTINF:-1, tvg-id="CANALPLAY 6 FR" tvg-logo="Logo N/A" tvg-name="CANALPLAY 6 FR"  group-title="Films",CANALPLAY 6 FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/774
-
-#EXTINF:-1, tvg-id="CANALPLAY 7 FR" tvg-logo="Logo N/A" tvg-name="CANALPLAY 7 FR"  group-title="Films",CANALPLAY 7 FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/775
-
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FR:  A la carte 20"  group-title="Films",FR:  A la carte 20
-http://tvstar.live:8880/ammar610077/668488/110068
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FR:  A la carte 12"  group-title="Films",FR:  A la carte 12
-http://tvstar.live:8880/ammar610077/668488/110060
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FR:  A la carte 19"  group-title="Films",FR:  A la carte 19
-http://tvstar.live:8880/ammar610077/668488/110067
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FR:  A la carte 18"  group-title="Films",FR:  A la carte 18
-http://tvstar.live:8880/ammar610077/668488/110066
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FR:  A la carte 16"  group-title="Films",FR:  A la carte 16
-http://tvstar.live:8880/ammar610077/668488/110064
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FR:  A la carte 13"  group-title="Films",FR:  A la carte 13
-http://tvstar.live:8880/ammar610077/668488/110061
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FR:  A la carte 14"  group-title="Films",FR:  A la carte 14
-http://tvstar.live:8880/ammar610077/668488/110062
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FR:  A la carte 15"  group-title="Films",FR:  A la carte 15
-http://tvstar.live:8880/ammar610077/668488/110063
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FR: Canal Play 11 HD"  group-title="Films",FR: Canal Play 11 HD
-http://tvstar.live:8880/ammar610077/668488/132718
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FR:  A la carte 17"  group-title="Films",FR:  A la carte 17
-http://tvstar.live:8880/ammar610077/668488/110065
-
-#EXTINF:11, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FR:  A la carte 11"  group-title="Films",FR:  A la carte 11
-http://tvstar.live:8880/ammar610077/668488/110059
-
-#EXTINF:10, tvg-id="ARTE.fr" tvg-logo="Logo N/A" tvg-name="FR:  A LA CARTE 10"  group-title="Films",FR:  A LA CARTE 10
-http://tvstar.live:8880/ammar610077/668488/109695
-
-#EXTINF:7, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FR:  A LA CARTE 7"  group-title="Films",FR:  A LA CARTE 7
-http://tvstar.live:8880/ammar610077/668488/109696
-
-#EXTINF:1, tvg-id="arte.fr" tvg-logo="http://www.vod-logo.net/photos/cc128ee065c1950246111a968c804091.JPG" tvg-name="FR:  A la carte 1 HD"  group-title="Films",FR:  A la carte 1 HD
-http://tvstar.live:8880/ammar610077/668488/9235
-
-#EXTINF:2, tvg-id="13emerue.fr" tvg-logo="http://www.vod-logo.net/photos/f7957d6783d8816b1c3c32a2ae4d8a30.JPG" tvg-name="FR:  A la carte 2 HD"  group-title="Films",FR:  A la carte 2 HD
-http://tvstar.live:8880/ammar610077/668488/9236
-
-#EXTINF:3, tvg-id="arte.fr" tvg-logo="http://www.vod-logo.net/photos/8dbcc340b70deba42f55123cf7d7b741.jpg" tvg-name="FR:  A la carte 3 HD"  group-title="Films",FR:  A la carte 3 HD
-http://tvstar.live:8880/ammar610077/668488/9237
-
-#EXTINF:5, tvg-id="arte.fr" tvg-logo="http://tvstar.live:8880/chimg/5555789602.png" tvg-name="FR:  A la carte 5 HD"  group-title="Films",FR:  A la carte 5 HD
-http://tvstar.live:8880/ammar610077/668488/9238
-
-
-#EXTINF:-1, tvg-id="dlaCiebietv.pl" tvg-logo="https://i.imgur.com/N318K6a.jpg" tvg-name="dlaCiebie.tv (720p)"  group-title="Pologne",dlaCiebie.tv (720p)
-http://94.246.128.53:1935/tv/_definst_/dlaCiebieTv/playlist.m3u8
-
-#EXTINF:-1, tvg-id="EzoTV.pl" tvg-logo="https://i.imgur.com/hJAoLIq.png" tvg-name="Ezo TV (576p)"  group-title="Pologne",Ezo TV (576p)
-http://live.ezotv.pl:1935/live/EZOTV/playlist.m3u8
-
-#EXTINF:-1, tvg-id="SferaTV.pl" tvg-logo="https://i.imgur.com/kgE2maL.jpg" tvg-name="Sfera TV (480p)"  group-title="Pologne",Sfera TV (480p)
-http://stream.sferatv.pl:1935/sferalive/smil:sferalive.smil/playlist.m3u8
-
-#EXTINF:-1, tvg-id="TelewizjaPograniczeGlubczyce.pl" tvg-logo="https://i.imgur.com/ilGvIug.jpeg" tvg-name="Telewizja Pogranicze (Głubczyce) (720p)"  group-title="Pologne",Telewizja Pogranicze (Głubczyce) (720p)
-http://95.160.28.218:1935/pogranicze/myStream/playlist.m3u8
-
-#EXTINF:-1, tvg-id="Trusotv.pl" tvg-logo="https://i.imgur.com/Ic07Biz.jpg" tvg-name="Truso.tv (Elbląg) (576p)"  group-title="Pologne",Truso.tv (Elbląg) (576p)
-http://95.160.28.218:1935/elblag/myStream_aac/playlist.m3u8
-
-#EXTINF:-1, tvg-id="TVKujawy.pl" tvg-logo="https://i.imgur.com/tgLWe9o.jpg" tvg-name="TV Kujawy"  group-title="Pologne",TV Kujawy
-http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
-
-#EXTINF:-1, tvg-id="TVRegionalnaLubin.pl" tvg-logo="https://i.imgur.com/l8tRJVW.jpg" tvg-name="TV Regionalna (Lubin)"  group-title="Pologne",TV Regionalna (Lubin)
-https://tvreg.klemit.net/regionalna/stream/index.m3u8
-
-#EXTINF:-1, tvg-id="TVRepublika.pl" tvg-logo="https://i.imgur.com/VaiHvZ3.jpg" tvg-name="TV Republika"  group-title="Pologne",TV Republika
-https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live-tvrepublika-1700k.m3u8
-
-#EXTINF:-1, tvg-id="TVRepublika.pl" tvg-logo="https://i.imgur.com/VaiHvZ3.jpg" tvg-name="TV Republika (1080p)"  group-title="Pologne",TV Republika (1080p)
-https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live.m3u8
-
-#EXTINF:-1, tvg-id="TVTorun.pl" tvg-logo="https://i.imgur.com/GdbkqCM.png" tvg-name="TV Toruń (1080p)"  group-title="Pologne",TV Toruń (1080p)
-http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
-
-#EXTINF:-1, tvg-id="TVTrwam.pl" tvg-logo="https://i.imgur.com/k6zdLLu.jpg" tvg-name="TV Trwam"  group-title="Pologne",TV Trwam
-https://trwamtv.live.e59-po.insyscd.net/cl01/out/u/trwam_3.m3u8
-
-#EXTINF:-1, tvg-id="TVP3Bialystok.pl" tvg-logo="https://i.imgur.com/zPSpvss.jpg" tvg-name="TVP 3 Białystok"  group-title="Pologne",TVP 3 Białystok
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbialystok
-
-#EXTINF:-1, tvg-id="TVP3Bydgoszcz.pl" tvg-logo="https://i.imgur.com/b0Xevsc.jpg" tvg-name="TVP 3 Bydgoszcz"  group-title="Pologne",TVP 3 Bydgoszcz
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbydgoszcz
-
-#EXTINF:-1, tvg-id="TVP3Gdansk.pl" tvg-logo="https://i.imgur.com/wGZCj7G.jpg" tvg-name="TVP 3 Gdańsk"  group-title="Pologne",TVP 3 Gdańsk
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpgdansk
-
-#EXTINF:-1, tvg-id="TVP3GorzowWielkopolski.pl" tvg-logo="https://i.imgur.com/H3jtBQm.jpg" tvg-name="TVP 3 Gorzów Wielkopolski"  group-title="Pologne",TVP 3 Gorzów Wielkopolski
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpgorzow
-
-#EXTINF:-1, tvg-id="TVP3Katowice.pl" tvg-logo="https://i.imgur.com/burRKHa.jpg" tvg-name="TVP 3 Katowice"  group-title="Pologne",TVP 3 Katowice
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkatowice
-
-#EXTINF:-1, tvg-id="TVP3Kielce.pl" tvg-logo="https://i.imgur.com/YcQxM94.jpg" tvg-name="TVP 3 Kielce"  group-title="Pologne",TVP 3 Kielce
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkielce
-
-#EXTINF:-1, tvg-id="TVP3Krakow.pl" tvg-logo="https://i.imgur.com/MbAKxD1.jpg" tvg-name="TVP 3 Kraków"  group-title="Pologne",TVP 3 Kraków
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkrakow
-
-#EXTINF:-1, tvg-id="TVP3Lublin.pl" tvg-logo="https://i.imgur.com/h7oq2yg.jpg" tvg-name="TVP 3 Lublin"  group-title="Pologne",TVP 3 Lublin
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplublin
-
-#EXTINF:-1, tvg-id="TVP3Olsztyn.pl" tvg-logo="https://i.imgur.com/Aa0HedU.jpg" tvg-name="TVP 3 Olsztyn"  group-title="Pologne",TVP 3 Olsztyn
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpolsztyn
-
-#EXTINF:-1, tvg-id="TVP3Opole.pl" tvg-logo="https://i.imgur.com/dYRtDRA.jpg" tvg-name="TVP 3 Opole"  group-title="Pologne",TVP 3 Opole
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpopole
-
-#EXTINF:-1, tvg-id="TVP3Poznan.pl" tvg-logo="https://i.imgur.com/mTnjVGQ.jpg" tvg-name="TVP 3 Poznań"  group-title="Pologne",TVP 3 Poznań
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvppoznan
-
-#EXTINF:-1, tvg-id="TVP3Rzeszow.pl" tvg-logo="https://i.imgur.com/6jGX6Xy.jpg" tvg-name="TVP 3 Rzeszów"  group-title="Pologne",TVP 3 Rzeszów
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvprzeszow
-
-#EXTINF:-1, tvg-id="TVP3Szczecin.pl" tvg-logo="https://i.imgur.com/NRb6S8z.jpg" tvg-name="TVP 3 Szczecin"  group-title="Pologne",TVP 3 Szczecin
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpszczecin
-
-#EXTINF:-1, tvg-id="TVP3Warszawa.pl" tvg-logo="https://i.imgur.com/AfZOO8U.jpg" tvg-name="TVP 3 Warszawa"  group-title="Pologne",TVP 3 Warszawa
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwarszawa
-
-#EXTINF:-1, tvg-id="TVP3Wroclaw.pl" tvg-logo="https://i.imgur.com/0em2QIh.jpg" tvg-name="TVP 3 Wrocław"  group-title="Pologne",TVP 3 Wrocław
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwroclaw
-
-#EXTINF:-1, tvg-id="TVP3Lodz.pl" tvg-logo="https://i.imgur.com/r5wxdkB.jpg" tvg-name="TVP 3 Łódź"  group-title="Pologne",TVP 3 Łódź
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplodz
-
-#EXTINF:-1, tvg-id="TVPInfo.pl" tvg-logo="https://i.imgur.com/idt6Zz3.jpg" tvg-name="TVP Info"  group-title="Pologne",TVP Info
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
-
-#EXTINF:-1, tvg-id="TVPParlament1.pl" tvg-logo="https://i.imgur.com/CpgzCZq.jpg" tvg-name="TVP Parlament (kanał 1)"  group-title="Pologne",TVP Parlament (kanał 1)
-http://hbbtvlive3.v3.tvp.pl/hbbtvlive/livestream.php?app_id=kanal1
-
-#EXTINF:-1, tvg-id="TVPParlament2.pl" tvg-logo="https://i.imgur.com/CpgzCZq.jpg" tvg-name="TVP Parlament (kanał 2)"  group-title="Pologne",TVP Parlament (kanał 2)
-http://hbbtvlive3.v3.tvp.pl/hbbtvlive/livestream.php?app_id=kanal2
-
-#EXTINF:-1, tvg-id="TVPSejm.pl" tvg-logo="https://i.imgur.com/CpgzCZq.jpg" tvg-name="TVP Sejm"  group-title="Pologne",TVP Sejm
-http://hbbtvlive3.v3.tvp.pl/hbbtvlive/livestream.php?app_id=sejm
-
-#EXTINF:-1, tvg-id="TVPSenat.pl" tvg-logo="https://i.imgur.com/CpgzCZq.jpg" tvg-name="TVP Senat"  group-title="Pologne",TVP Senat
-http://hbbtvlive3.v3.tvp.pl/hbbtvlive/livestream.php?app_id=senat
-
-#EXTINF:-1, tvg-id="TVT.pl" tvg-logo="Logo N/A" tvg-name="TVT"  group-title="Pologne",TVT
-http://176.107.129.219/media/tvt/index.m3u8
-
-#EXTINF:-1, tvg-id="TVTZgorzelec.pl" tvg-logo="https://i.imgur.com/zhzVpgf.jpg" tvg-name="TVT Zgorzelec"  group-title="Pologne",TVT Zgorzelec
-http://gargoyle.tomkow.pl/hls/tvt.m3u8
-
-#EXTINF:-1, tvg-id="Belsat.pl" tvg-logo="Logo N/A" tvg-name="Белсат"  group-title="Pologne",Белсат
-http://f1.stream.devkom.pro:1063/ramowka/video.m3u8
-
-
-
-#EXTINF:-1, tvg-id="1Plus1.ua" tvg-logo="Logo N/A" tvg-name="1+1"  group-title="Ukraine",1+1
-http://spacetv.in/stream/DIPK8H19CP8/172.m3u8
-
-#EXTINF:-1, tvg-id="100News.ua" tvg-logo="https://i.imgur.com/11llLr1.jpg" tvg-name="100% News"  group-title="Ukraine",100% News
-http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
-
-#EXTINF:-1, tvg-id="2Plus2.ua" tvg-logo="Logo N/A" tvg-name="2+2"  group-title="Ukraine",2+2
-http://spacetv.in/stream/DIPK8H19CP8/173.m3u8
-
-#EXTINF:-1, tvg-id="24Kanal.ua" tvg-logo="Logo N/A" tvg-name="24 Канал"  group-title="Ukraine",24 Канал
-http://streamvideol1.luxnet.ua/news24/news24.stream/chunklist.m3u8
-
-#EXTINF:-1, tvg-id="24Kanal.ua" tvg-logo="Logo N/A" tvg-name="24 Канал (1080p)"  group-title="Ukraine",24 Канал (1080p)
-http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8
-
-#EXTINF:-1, tvg-id="24Kanal.ua" tvg-logo="Logo N/A" tvg-name="24 Канал (1080p)"  group-title="Ukraine",24 Канал (1080p)
-http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
-
-#EXTINF:-1, tvg-id="34kanal.ua" tvg-logo="Logo N/A" tvg-name="34 канал"  group-title="Ukraine",34 канал
-http://streamvideol.luxnet.ua/34ua/34ua.stream/playlist.m3u8
-
-#EXTINF:-1, tvg-id="4kanal.ua" tvg-logo="https://i.imgur.com/8k3JjOW.png" tvg-name="4 канал"  group-title="Ukraine",4 канал
-http://95.67.106.10/hls/nta_ua_hi/index.m3u8
-
-#EXTINF:-1, tvg-id="4kanal.ua" tvg-logo="https://i.imgur.com/8k3JjOW.png" tvg-name="4 канал"  group-title="Ukraine",4 канал
-http://95.67.106.10/hls/nta_ua_low/index.m3u8
-
-#EXTINF:-1, tvg-id="4kanal.ua" tvg-logo="https://i.imgur.com/8k3JjOW.png" tvg-name="4 канал"  group-title="Ukraine",4 канал
-http://95.67.106.10/hls/nta_ua_mid/index.m3u8
-
-#EXTINF:-1, tvg-id="7kanal.ua" tvg-logo="https://i.imgur.com/nJvGdoj.jpg" tvg-name="7 канал (Одесса) (720p)"  group-title="Ukraine",7 канал (Одесса) (720p)
-http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
-
-#EXTINF:-1, tvg-id="ATR.ua" tvg-logo="Logo N/A" tvg-name="ATR"  group-title="Ukraine",ATR
-http://stream.atr.ua/atr/live/index.m3u8
-
-#EXTINF:-1, tvg-id="BamBarBiaTV.ua" tvg-logo="https://i.imgur.com/LIk85IA.png" tvg-name="BamBarBia TV (1080p)"  group-title="Ukraine",BamBarBia TV (1080p)
-http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
-
-#EXTINF:-1, tvg-id="BamBarBiaTV.ua" tvg-logo="https://i.imgur.com/LIk85IA.png" tvg-name="BamBarBia TV (1080p)"  group-title="Ukraine",BamBarBia TV (1080p)
-http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
-
-#EXTINF:-1, tvg-id="CNLEvropa.ua" tvg-logo="https://i.imgur.com/lozzdS7.png" tvg-name="CNL Европа"  group-title="Ukraine",CNL Европа
-http://live-mobile.cdn01.net/hls-live/202E1F/default/mobile/stream_10429_3.m3u8
-
-#EXTINF:-1, tvg-id="FilmTV.ua" tvg-logo="Logo N/A" tvg-name="Film TV"  group-title="Ukraine",Film TV
-http://filmtv.zapto.org:8050/hls/stream/index.m3u8
-
-#EXTINF:-1, tvg-id="GTV.ua" tvg-logo="https://i.imgur.com/Rc6UGkb.jpg" tvg-name="GTV (576p)"  group-title="Ukraine",GTV (576p)
-http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-480p/playlist.m3u8
-
-#EXTINF:-1, tvg-id="GTV.ua" tvg-logo="https://i.imgur.com/Rc6UGkb.jpg" tvg-name="GTV (720p)"  group-title="Ukraine",GTV (720p)
-http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-720p/playlist.m3u8
-
-#EXTINF:-1, tvg-id="HDFashionLifeStyle.ua" tvg-logo="https://www.parsatv.com/index_files/channels/hdfashion.png" tvg-name="HDFashion & LifeStyle"  group-title="Ukraine",HDFashion & LifeStyle
-http://95.67.47.114/hls/hdfashion_ua_low/index.m3u8
-
-#EXTINF:-1, tvg-id="HDFashionLifeStyle.ua" tvg-logo="https://i.imgur.com/LtQL1q9.jpg" tvg-name="HDFashion & LifeStyle"  group-title="Ukraine",HDFashion & LifeStyle
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-
-#EXTINF:-1, tvg-id="HDFashionLifeStyle.ua" tvg-logo="https://i.imgur.com/LtQL1q9.jpg" tvg-name="HDFashion & LifeStyle"  group-title="Ukraine",HDFashion & LifeStyle
-http://95.67.47.115/hls/hdfashion_ua_mid/index.m3u8
-
-#EXTINF:-1, tvg-id="ICTV.ua" tvg-logo="Logo N/A" tvg-name="ICTV (576p)"  group-title="Ukraine",ICTV (576p)
-http://51.195.44.53:8081/tv/ictv/playlist.m3u8
-
-#EXTINF:-1, tvg-id="Inter.ua" tvg-logo="https://i.imgur.com/0n7Bk5s.png" tvg-name="Iнтер"  group-title="Ukraine",Iнтер
-https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
-
-#EXTINF:-1, tvg-id="KinderTV.ua" tvg-logo="Logo N/A" tvg-name="Kinder TV"  group-title="Ukraine",Kinder TV
-http://autopilot.catcast.tv/content/38144/index.m3u8
-
-#EXTINF:-1, tvg-id="Lale.ua" tvg-logo="Logo N/A" tvg-name="Lale"  group-title="Ukraine",Lale
-http://stream.atr.ua/lale//live/index.m3u8
-
-#EXTINF:-1, tvg-id="M1.ua" tvg-logo="Logo N/A" tvg-name="M1 (1080p)"  group-title="Ukraine",M1 (1080p)
-http://live.m2.tv/hls2/stream.m3u8
-
-#EXTINF:-1, tvg-id="M2.ua" tvg-logo="Logo N/A" tvg-name="M2 (720p)"  group-title="Ukraine",M2 (720p)
-http://live.m2.tv/hls3/stream.m3u8
-
-#EXTINF:-1, tvg-id="MostVideoTV.ua" tvg-logo="Logo N/A" tvg-name="MostVideo.TV"  group-title="Ukraine",MostVideo.TV
-http://w4.mostvideo.tv/tv/ch1.m3u8
-
-#EXTINF:-1, tvg-id="RenomeOdessa.ua" tvg-logo="https://i.imgur.com/Uy9gD3l.jpg" tvg-name="Renome (Одесса)"  group-title="Ukraine",Renome (Одесса)
-http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
-
-#EXTINF:-1, tvg-id="Simon.ua" tvg-logo="https://i.imgur.com/RaVchcn.jpg" tvg-name="Simon (576p)"  group-title="Ukraine",Simon (576p)
-https://hls.simon.ua/live-HD/live/playlist.m3u8
-
-#EXTINF:-1, tvg-id="Skrypinua.ua" tvg-logo="Logo N/A" tvg-name="Skrypin.ua"  group-title="Ukraine",Skrypin.ua
-https://open-cdn.lanet.tv/live/1008.m3u8
-
-#EXTINF:-1, tvg-id="Sport1.ua" tvg-logo="https://i.imgur.com/wBJI5Jw.png" tvg-name="Sport 1"  group-title="Ukraine",Sport 1
-https://95-213-224-183.livesports24.online/sport1ua.m3u8
-
-#EXTINF:-1, tvg-id="TET.ua" tvg-logo="Logo N/A" tvg-name="TET (576p)"  group-title="Ukraine",TET (576p)
-http://51.195.44.53:8081/tv/tet/playlist.m3u8
-
-#EXTINF:-1, tvg-id="TravelGuideTV.ua" tvg-logo="Logo N/A" tvg-name="Travel Guide TV (720p)"  group-title="Ukraine",Travel Guide TV (720p)
-http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
-
-#EXTINF:-1, tvg-id="TravelGuideTV.ua" tvg-logo="Logo N/A" tvg-name="Travel Guide TV (720p)"  group-title="Ukraine",Travel Guide TV (720p)
-http://cdn10.live-tv.od.ua:8081/leonovtv/test1/playlist.m3u8
-
-#EXTINF:-1, tvg-id="TV5.ua" tvg-logo="https://i.imgur.com/ixKcTad.png" tvg-name="TV5 (Запорожье) (360p)"  group-title="Ukraine",TV5 (Запорожье) (360p)
-http://hls.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8
-
-#EXTINF:-1, tvg-id="TV5.ua" tvg-logo="https://i.imgur.com/ixKcTad.png" tvg-name="TV5 (Запорожье) (360p)"  group-title="Ukraine",TV5 (Запорожье) (360p)
-http://hls.cdn.ua/tv5.zp.ua_live/_definst_:tv5/playlist.m3u8
-
-#EXTINF:-1, tvg-id="TV5.ua" tvg-logo="https://i.imgur.com/ixKcTad.png" tvg-name="TV5 (Запорожье) (360p)"  group-title="Ukraine",TV5 (Запорожье) (360p)
-http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8
-
-#EXTINF:-1, tvg-id="TV7Plus.ua" tvg-logo="https://i.imgur.com/5qwIslT.jpg" tvg-name="TV7+ (Хмельницький)"  group-title="Ukraine",TV7+ (Хмельницький)
-https://tv7plus.com/hls/tv7.m3u8
-
-#EXTINF:-1, tvg-id="TV7Plus.ua" tvg-logo="https://i.imgur.com/5qwIslT.jpg" tvg-name="TV7+ (Хмельницький)"  group-title="Ukraine",TV7+ (Хмельницький)
-https://tv7plus.com/hls/tv7_site.m3u8
-
-#EXTINF:-1, tvg-id="UATV.ua" tvg-logo="Logo N/A" tvg-name="UATV"  group-title="Ukraine",UATV
-http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_low/index.m3u8
-
-#EXTINF:-1, tvg-id="UATV.ua" tvg-logo="Logo N/A" tvg-name="UATV"  group-title="Ukraine",UATV
-http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
-
-#EXTINF:-1, tvg-id="UATV.ua" tvg-logo="https://i.imgur.com/lNH1pkZ.jpg" tvg-name="UATV"  group-title="Ukraine",UATV
-https://ua-tv-hls3.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
-
-#EXTINF:-1, tvg-id="UkrLive.ua" tvg-logo="Logo N/A" tvg-name="Ukr Live"  group-title="Ukraine",Ukr Live
-http://95.67.12.149:9005
-
-#EXTINF:-1, tvg-id="Z.ua" tvg-logo="https://i.imgur.com/f0nOjL8.png" tvg-name="Z (Запорожье)"  group-title="Ukraine",Z (Запорожье)
-https://stream.ztv.zp.ua/hls/live.m3u8
-
-#EXTINF:-1, tvg-id="A1.ua" tvg-logo="https://i.imgur.com/0DUi5fO.jpg" tvg-name="А1 (Одесса) (480p)"  group-title="Ukraine",А1 (Одесса) (480p)
-http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-480p/playlist.m3u8
-
-#EXTINF:-1, tvg-id="A1.ua" tvg-logo="https://i.imgur.com/0DUi5fO.jpg" tvg-name="А1 (Одесса) (720p)"  group-title="Ukraine",А1 (Одесса) (720p)
-http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-720p/playlist.m3u8
-
-#EXTINF:-1, tvg-id="A1.ua" tvg-logo="https://i.imgur.com/0DUi5fO.jpg" tvg-name="А1 (Одесса) (720p)"  group-title="Ukraine",А1 (Одесса) (720p)
-http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/playlist.m3u8
-
-#EXTINF:-1, tvg-id="ArhatTV.ua" tvg-logo="https://i.imgur.com/Qdgntk1.jpg" tvg-name="Архат ТВ"  group-title="Ukraine",Архат ТВ
-https://arhat.tv/public/720p/index.m3u8
-
-#EXTINF:-1, tvg-id="BaltaTV.ua" tvg-logo="Logo N/A" tvg-name="Балта ТВ"  group-title="Ukraine",Балта ТВ
-http://194.50.51.34/playlist.m3u8
-
-#EXTINF:-1, tvg-id="Glas.ua" tvg-logo="Logo N/A" tvg-name="Глас"  group-title="Ukraine",Глас
-http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
-
-#EXTINF:-1, tvg-id="DonbasOnline.ua" tvg-logo="Logo N/A" tvg-name="Донбас Online (1080p)"  group-title="Ukraine",Донбас Online (1080p)
-http://176.110.1.30:1935/live/donbasonline/playlist.m3u8
-
-#EXTINF:-1, tvg-id="DumskayaTV.ua" tvg-logo="Logo N/A" tvg-name="Думская.TV (720p)"  group-title="Ukraine",Думская.TV (720p)
-http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/dumska/dumska720p/playlist.m3u8
-
-#EXTINF:-1, tvg-id="DumskayaTV.ua" tvg-logo="https://dumskaya.net/i3/logotv.png" tvg-name="Думская.TV (720p)"  group-title="Ukraine",Думская.TV (720p)
-http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/playlist.m3u8
-
-#EXTINF:-1, tvg-id="Zdorove.ua" tvg-logo="Logo N/A" tvg-name="Здоровье (Одесса) (504p)"  group-title="Ukraine",Здоровье (Одесса) (504p)
-http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/playlist.m3u8
-
-#EXTINF:-1, tvg-id="Zdorove.ua" tvg-logo="http://zd.od.ua/wp-content/uploads/2018/01/zdor-2.png" tvg-name="Здоровье (Одесса) (504p)"  group-title="Ukraine",Здоровье (Одесса) (504p)
-http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/zdorovood/zdorovo/playlist.m3u8
-
-#EXTINF:-1, tvg-id="Inter.ua" tvg-logo="Logo N/A" tvg-name="Интер"  group-title="Ukraine",Интер
-https://lb1.macc.com.ua/img/inter_2/index.m3u8
-
-#EXTINF:-1, tvg-id="K1.ua" tvg-logo="https://i.imgur.com/zkGPS5w.jpg" tvg-name="К1"  group-title="Ukraine",К1
-http://109.68.40.67/life/k1.m3u8
-
-#EXTINF:-1, tvg-id="K1.ua" tvg-logo="Logo N/A" tvg-name="К1"  group-title="Ukraine",К1
-http://109.68.40.67/life/k1_3/index.m3u8
-
-#EXTINF:-1, tvg-id="K1.ua" tvg-logo="https://i.imgur.com/zkGPS5w.jpg" tvg-name="К1"  group-title="Ukraine",К1
-http://109.68.40.67:80/life/k1_3/index.m3u8
-
-#EXTINF:-1, tvg-id="Nadiya.ua" tvg-logo="https://i.imgur.com/exdDHml.png" tvg-name="Надія (720p)"  group-title="Ukraine",Надія (720p)
-https://stream.hope.ua/hopeua/live_1/playlist.m3u8
-
-#EXTINF:-1, tvg-id="NTK.ua" tvg-logo="Logo N/A" tvg-name="НТК"  group-title="Ukraine",НТК
-https://stream.ntktv.ua/s/ntk/ntk.m3u8
-
-#EXTINF:-1, tvg-id="NTN.ua" tvg-logo="Logo N/A" tvg-name="НТН"  group-title="Ukraine",НТН
-https://edge2.iptv.macc.com.ua/img/ntn_3/index.m3u8
-
-#EXTINF:-1, tvg-id="NTN.ua" tvg-logo="Logo N/A" tvg-name="НТН"  group-title="Ukraine",НТН
-https://edge3.iptv.macc.com.ua/img/ntn_3/index.m3u8
-
-#EXTINF:-1, tvg-id="ObshchestvennoeNezavisimoeTelevidenie.ua" tvg-logo="http://4.bp.blogspot.com/-2jLl6rP9uB0/UWCjNwyiHqI/AAAAAAAABXA/giDBQTC3Gvw/s1600/ont3+copy.jpg" tvg-name="Общественное Независимое Телевидение"  group-title="Ukraine",Общественное Независимое Телевидение
-http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
-
-#EXTINF:-1, tvg-id="ObshchestvennoeNezavisimoeTelevidenie.ua" tvg-logo="Logo N/A" tvg-name="Общественное Независимое Телевидение"  group-title="Ukraine",Общественное Независимое Телевидение
-https://ch.iptvmate.net/a46f7aba4c40d62799b6ca0296fb7f6c.m3u8
-
-#EXTINF:-1, tvg-id="Obektiv59.ua" tvg-logo="Logo N/A" tvg-name="Объектив 59 (576p)"  group-title="Ukraine",Объектив 59 (576p)
-https://hls.simon.ua/live-HD/live/playlist_dvr.m3u8
-
-#EXTINF:-1, tvg-id="Odesa.ua" tvg-logo="https://mediacast.tv/wp-content/uploads/2018/03/pershui-dilovyi.png" tvg-name="Одеса (576p)"  group-title="Ukraine",Одеса (576p)
-http://cdn1.live-tv.od.ua:8081/riood/riood-abr/riood/riood/playlist.m3u8
-
-#EXTINF:-1, tvg-id="OrbitaTV.ua" tvg-logo="Logo N/A" tvg-name="Орбіта ТВ"  group-title="Ukraine",Орбіта ТВ
-http://ftp.orbita.dn.ua/hls/orbita.m3u8
-
-#EXTINF:-1, tvg-id="PervyygorodskoyKrivoyRog.ua" tvg-logo="Logo N/A" tvg-name="Первый городской (Кривой Рог) (720p)"  group-title="Ukraine",Первый городской (Кривой Рог) (720p)
-http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/1tvkr/1tvkr/playlist.m3u8
-
-#EXTINF:-1, tvg-id="PervyygorodskoyKrivoyRog.ua" tvg-logo="http://big-tv.org/uploads/posts/2017-11/thumbs/1510692123_pervyy-gorodskoy-krivoy-rog.png" tvg-name="Первый городской (Кривой Рог) (720p)"  group-title="Ukraine",Первый городской (Кривой Рог) (720p)
-http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/playlist.m3u8
-
-#EXTINF:-1, tvg-id="PervyygorodskoyOdessa.ua" tvg-logo="https://sun9-18.userapi.com/c639227/v639227583/45ae7/tw3dA0ptuXI.jpg" tvg-name="Первый городской (Одесса) (1080p)"  group-title="Ukraine",Первый городской (Одесса) (1080p)
-http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
-
-#EXTINF:-1, tvg-id="PervyygorodskoyOdessa.ua" tvg-logo="Logo N/A" tvg-name="Первый городской (Одесса) (504p)"  group-title="Ukraine",Первый городской (Одесса) (504p)
-http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr/playlist.m3u8
-
-#EXTINF:-1, tvg-id="PershiyDiloviy.ua" tvg-logo="Logo N/A" tvg-name="Перший Діловий"  group-title="Ukraine",Перший Діловий
-http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8
-
-#EXTINF:-1, tvg-id="PershiyDiloviy.ua" tvg-logo="Logo N/A" tvg-name="Перший Діловий"  group-title="Ukraine",Перший Діловий
-http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_mid/index.m3u8
-
-#EXTINF:-1, tvg-id="PershiyZahidniy.ua" tvg-logo="Logo N/A" tvg-name="Перший Західний (Львов) (480p)"  group-title="Ukraine",Перший Західний (Львов) (480p)
-http://hls.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8
-
-#EXTINF:-1, tvg-id="PershiyZahidniy.ua" tvg-logo="Logo N/A" tvg-name="Перший Західний (Львов) (480p)"  group-title="Unsorted",Перший Західний (Львов) (480p)
-http://rtmp.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8
-
-#EXTINF:-1, tvg-id="Pershiynezalezhniy.ua" tvg-logo="Logo N/A" tvg-name="Перший незалежний"  group-title="Ukraine",Перший незалежний
-http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
-
-#EXTINF:-1, tvg-id="Pershiynezalezhniy.ua" tvg-logo="Logo N/A" tvg-name="Перший незалежний"  group-title="Ukraine",Перший незалежний
-https://app.live.112.events/hls-ua/112hd_mid/index.m3u8
-
-#EXTINF:-1, tvg-id="Pershiynezalezhniy.ua" tvg-logo="Logo N/A" tvg-name="Перший незалежний"  group-title="Ukraine",Перший незалежний
-https://app.live.112.events/hls/112hd_hi/index.m3u8
-
-#EXTINF:-1, tvg-id="Pershiynezalezhniy.ua" tvg-logo="Logo N/A" tvg-name="Перший незалежний"  group-title="Ukraine",Перший незалежний
-https://app.live.112.events/hls/112hd_mid/index.m3u8
-
-#EXTINF:-1, tvg-id="PravdaTUT.ua" tvg-logo="Logo N/A" tvg-name="ПравдаТУТ"  group-title="Ukraine",ПравдаТУТ
-http://95.67.17.131/hls/pravdatytkievshina_ua_hi/index.m3u8
-
-#EXTINF:-1, tvg-id="PravdaTUT.ua" tvg-logo="Logo N/A" tvg-name="ПравдаТУТ"  group-title="Ukraine",ПравдаТУТ
-http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
-
-#EXTINF:-1, tvg-id="Pryamiy.ua" tvg-logo="Logo N/A" tvg-name="Прямий"  group-title="Ukraine",Прямий
-http://95.67.21.100/hls/prm_ua_hi/index.m3u8
-
-#EXTINF:-1, tvg-id="Pryamiy.ua" tvg-logo="Logo N/A" tvg-name="Прямий"  group-title="Ukraine",Прямий
-http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
-
-#EXTINF:-1, tvg-id="Pryamiy.ua" tvg-logo="Logo N/A" tvg-name="Прямий"  group-title="Ukraine",Прямий
-http://prm-hls1.cosmonova.net.ua/hls/prm_ua_mid/index.m3u8
-
-#EXTINF:-1, tvg-id="RadioLyuks.ua" tvg-logo="https://i.i.ua/radio/logo/1/161.jpg" tvg-name="Радио Люкс (1080p)"  group-title="Ukraine",Радио Люкс (1080p)
-https://stream1.luxnet.ua/luxstudio/smil:luxstudio.stream.smil/playlist.m3u8
-
-#EXTINF:-1, tvg-id="Reporter.ua" tvg-logo="http://reporter.odessa.ua/wp-content/uploads/2017/05/logo_retina-300x99.png" tvg-name="Репортер (720p)"  group-title="Ukraine",Репортер (720p)
-http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/playlist.m3u8
-
-#EXTINF:-1, tvg-id="Rudana.ua" tvg-logo="Logo N/A" tvg-name="Рудана"  group-title="Ukraine",Рудана
-https://live.rudana.com.ua/hls/stream_FHD.m3u8
-
-#EXTINF:-1, tvg-id="Svarozhichi.ua" tvg-logo="Logo N/A" tvg-name="Сварожичи (720p)"  group-title="Ukraine",Сварожичи (720p)
-http://80.91.177.102:1935/live/live1/playlist.m3u8
-
-#EXTINF:-1, tvg-id="Svarozhichi.ua" tvg-logo="Logo N/A" tvg-name="Сварожичи (720p)"  group-title="Ukraine",Сварожичи (720p)
-http://tv.tv-project.com:1935/live/live1/playlist.m3u8
-
-#EXTINF:-1, tvg-id="STB.ua" tvg-logo="https://i.imgur.com/Av0pftd.png" tvg-name="СТБ"  group-title="Ukraine",СТБ
-http://188.35.9.11:11021/j
-
-#EXTINF:-1, tvg-id="TVDom.ua" tvg-logo="Logo N/A" tvg-name="ТВ Дом"  group-title="Ukraine",ТВ Дом
-http://46.149.48.21:1234
-
-#EXTINF:-1, tvg-id="TVA.ua" tvg-logo="Logo N/A" tvg-name="ТВА (Чернiвцi) (576p)"  group-title="Ukraine",ТВА (Чернiвцi) (576p)
-http://hls.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
-
-#EXTINF:-1, tvg-id="TVA.ua" tvg-logo="Logo N/A" tvg-name="ТВА (Чернiвцi) (576p)"  group-title="Ukraine",ТВА (Чернiвцi) (576p)
-http://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
-
-#EXTINF:-1, tvg-id="TretiyCifrovoy.ua" tvg-logo="Logo N/A" tvg-name="Третий Цифровой (576p)"  group-title="Ukraine",Третий Цифровой (576p)
-http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/3tvod/3tvod/playlist.m3u8
-
-#EXTINF:-1, tvg-id="TretiyCifrovoy.ua" tvg-logo="http://tretiy.tv/wp-content/uploads/2017/12/logo.png" tvg-name="Третий Цифровой (576p)"  group-title="Ukraine",Третий Цифровой (576p)
-http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/playlist.m3u8
-
-#EXTINF:-1, tvg-id="TISTV.ua" tvg-logo="http://www.tistv.news/wp-content/uploads/2018/02/logo-main-2.png" tvg-name="ТІС ТВ (480p)"  group-title="Ukraine",ТІС ТВ (480p)
-http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod504/playlist.m3u8
-
-#EXTINF:-1, tvg-id="TISTV.ua" tvg-logo="Logo N/A" tvg-name="ТІС ТВ (Одесса) (480p)"  group-title="Ukraine",ТІС ТВ (Одесса) (480p)
-http://cdn10.live-tv.od.ua:8081/riood/tisod-abr-lq/riood/tisod504/playlist.m3u8
-
-#EXTINF:-1, tvg-id="TISTV.ua" tvg-logo="Logo N/A" tvg-name="ТІС ТВ (Одесса) (216p)"  group-title="Ukraine",ТІС ТВ (Одесса) (216p)
-http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod240/playlist.m3u8
-
-#EXTINF:-1, tvg-id="Futbol1.ua" tvg-logo="https://i.imgur.com/J1VuYAB.png" tvg-name="Футбол 1"  group-title="Ukraine",Футбол 1
-https://95-213-224-183.livesports24.online/uafootballua1.m3u8
-
-#EXTINF:-1, tvg-id="HersonPlyus.ua" tvg-logo="https://khersontv.com/wp-content/themes/hueman/img/logo.png" tvg-name="Херсон Плюс"  group-title="Ukraine",Херсон Плюс
-http://46.175.163.130/ks_plus/index.m3u8
-
-#EXTINF:-1, tvg-id="Cherniveckiypromin.ua" tvg-logo="Logo N/A" tvg-name="Чернівецький промінь (720p)"  group-title="Ukraine",Чернівецький промінь (720p)
-https://langate.tv/promin/live_720/index.m3u8
-
-#EXTINF:-1, tvg-id="Chernivci.ua" tvg-logo="Logo N/A" tvg-name="Чернівці (576p)"  group-title="Ukraine",Чернівці (576p)
-http://91.205.207.20:1935/live/mtrk.chernivtsi.rvqs-92g8-sg04-6h4t/playlist.m3u8
-
-#EXTINF:-1, tvg-id="ChPinfo.ua" tvg-logo="https://iptvx.one/icn/chpinfo.png" tvg-name="ЧП.інфо"  group-title="Ukraine",ЧП.інфо
-http://109.68.40.67/life/magnolia.m3u8
-
-#EXTINF:-1, tvg-id="ChPinfo.ua" tvg-logo="https://iptvx.one/icn/chpinfo.png" tvg-name="ЧП.інфо"  group-title="Ukraine",ЧП.інфо
-http://109.68.40.67/life/magnolia_3/index.m3u8
-
-#EXTINF:-1, tvg-id="YuzhnayaVolna.ua" tvg-logo="Logo N/A" tvg-name="Южная Волна (720p)"  group-title="Ukraine",Южная Волна (720p)
-http://cdn1.live-tv.od.ua:8081/wave/wave-abr/playlist.m3u8
-
-#EXTINF:-1, tvg-id="YuzhnayaVolna.ua" tvg-logo="Logo N/A" tvg-name="Южная Волна (720p)"  group-title="Ukraine",Южная Волна (720p)
-http://cdn1.live-tv.od.ua:8081/wave/wave-abr/wave/wave-720/playlist.m3u8
-
-#EXTINF:-1, tvg-id="inshiy.ua" tvg-logo="Logo N/A" tvg-name="інший (720p)"  group-title="Ukraine",інший (720p)
-http://cdn1.live-tv.od.ua:8081/ktkod/ktkod-abr/ktkod/ktkod/playlist.m3u8
-
-
-
-
+#EXTM3U 
+group,FRANCE GENERAL
+TF1.fr,TF1,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/17590
+TF1SeriesFilms.fr,TF1 Series Films,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/17591
+TFX.fr,TFX,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/17592
+TCM.uk,TMC,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/17593
+ext,FR: TF1 +1 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7979
+TF1.fr,FR: TF1 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7980
+ext,FR: TF1 Series Films HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7981
+ext,FR: TFX FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7982
+Tiji.fr,FR: TIJI FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7983
+TMC.fr,FR: TMC FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7984
+ext,FR: NOVELAS FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7901
+ext,FR: Netflix Action FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7893
+M6.fr,FR: M6 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7857
+M6MusicHits.fr,FR: M6 MUSIC FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7858
+ext,FR M6 Music HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7859
+13RUE.fr,FR: 13 EME RUE FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7630
+6ter.fr,FR: 6ter FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7631
+France2.fr,FR: FRANCE 2 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7817
+France3.fr,FR: FRANCE 3 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7818
+France4.fr,FR: FRANCE 4 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7819
+France5.fr,FR: FRANCE 5 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7820
+FranceO.fr,FR: FRANCE Ô FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7823
+ext,FR: A LAMAISON HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7652
+ext,FR: AB EXPLORE HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7653
+AB1.fr,FR: AB1 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7654
+ext,FR: AB3 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7655
+Action.fr,FR: ACTION FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7656
+ext,FR: ALSACE 20 HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7657
+ext,FR: ALTICE STUDIO FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7658
+Animaux.fr,FR: ANIMAUX FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7659
+ext,FR ANIMAUX FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7660
+Animaux.fr,FR: ANIMAUX HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7661
+ext,FR ANIMAUX HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7662
+ARTE.fr,FR: arte FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7663
+ext,FR: auto motor sport HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7664
+ext,DOC: FR | auto motor sport HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7665
+ext,FR: AUTOMOTO FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7666
+ext,DOC: FR | AUTOMOTO FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7667
+BabyTV.fr,FR: BABY TV FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7668
+ext,FR BABY TV FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7669
+ext,FR: BERBERE TELEVISION,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7685
+BET.fr,FR: BET FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7686
+ext,FR: BIP TV,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7691
+Boing.fr,FR: BOING FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7692
+ext,FR: BOOMERANG +1 HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7693
+Boomerang.fr,FR: Boomerang FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7694
+ext,FR: BOSS Movies 1 HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7695
+ext,FR: BOSS Movies 5 HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7696
+ext,FR: BOSS Movies 9 HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7697
+BravaHD.fr,FR: BRAVA FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7719
+CNews.fr,FR: C NEWS FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7720
+CStar.fr,FR: C STAR FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7721
+ext,FR: C STAR HITS FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7722
+C8.fr,FR: C8 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7723
+ext,FR: Canal 24,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7724
+CartoonNetwork.fr,FR: CARTOON NETWORK FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7756
+ext,FR CARTOON NETWORK FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7757
+ext,FR: CGTN Français HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7758
+ext,FR: Charlie Chaplin,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7759
+ChassePeche.fr,FR: CHASSE & PECHE HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7760
+Cherie25.fr,FR: Cherie 25 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7761
+ext,FR: Classica,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7769
+ext,FR: CLIQUE FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7770
+ext,FR: Club bing TV,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7771
+ext,FR: COMEDIE CENTRAL FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7772
+Comedie.fr,FR: Comedie+,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7773
+ext,FR: DBM HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7777
+ext,FR: Dieu TV,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7778
+ext,FR: DJAZZ HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7798
+Eentertainment.fr,FR: E! HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7799
+ext,FR E! FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7800
+ext,FR: Egypte des Pharaons,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7801
+ext,FR: EMCI FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7802
+ext,FR: Equidia HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7803
+EquidiaLive.fr,FR: EQUIDIA LIVE FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7804
+ext,FR: EQUIPE FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7805
+ext,FR: ES1 HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7806
+ext,FR: EUROCHANNEL HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7807
+ext,FR: euronews FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7808
+ext,FR: FASHION TV HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7814
+Franceinfo.fr,FR: FRANCE INFO HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7822
+ext,FR: FRANCOPHONIE HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7824
+ext,FR: GAME ONE +1 HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7825
+GameOne.fr,FR: GAME ONE HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7826
+ext,FR: GINX HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7827
+ext,FR: GIRONDINS TV HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7828
+Golf.fr,FR: GOLF Channel HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7829
+Golf.fr,FR: GOLF+ FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7830
+ext,FR: Gulli GOOD FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7831
+ext,KIDS: FR | Gulli Good FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7832
+Histoire.fr,FR: HISTOIRE FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7833
+ext,FR: History TV,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7834
+ext,FR: Hit TV,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7835
+ext,FR: I24 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7836
+ext,FR: Investigation Discovery HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7838
+ext,FR Investigation Discovery FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7839
+iTele.fr,FR: iTELE HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7840
+ext,FR: J ONE FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7841
+KombatSport.fr,FR: KOMBAT SPORT HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7842
+ext,FR: KTO HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7843
+Equipe21.fr,FR: L EQUIPE 21 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7844
+ext,FR: L univers & ses mysteres,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7845
+ext,FR: LA CHAINE NORMANDIE,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7847
+ext,FR: LA DEUX HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7848
+iTele.fr,FR: LA TELE,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7849
+ext,FR: La Une FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7850
+ext,FR: LCP FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7852
+ext,FR: LTICE STUDIO FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7854
+ext,FR: LUCKY JACK HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7855
+ext,FR: LUXE TV HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7856
+Mangas.fr,FR: Mangas FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7860
+MCM.fr,FR: MCM FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7861
+ext,FR: MCM POP HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7862
+ext,FR MCM POP HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7863
+MCMtop.fr,FR: MCM TOP FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7864
+ext,FR MCM POP HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7865
+ext,FR: MELODY FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7866
+MezzoLiveHD.fr,FR: MEZZO HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7867
+MezzoLiveHD.fr,FR: MEZZO LIVE FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7868
+ext,FR VH1 CLASSIC HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7870
+ext,FR: MUSIC TV HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7885
+ext,FR MUSIC TV HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7886
+ext,FR: MY COMEDY HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7887
+ext,FR: My Cuisine FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7888
+ext,FR: NAGO TV,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7889
+NationalGeographic.fr,FR: NAT GEO FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7890
+ext,FR NAT GEO FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7891
+NatGeoWildHD.fr,FR: NAT GEO Wild HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7892
+Nickelodeon.fr,FR: nickelodeon FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7894
+ext,FR nickelodeon FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7895
+NickJr.fr,FR: nickelodeon Junior FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7896
+ext,FR nickelodeon JUNIOR FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7897
+ext,FR: nickelodeon teen FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7898
+ext,FR nickelodeon 4 TEEN HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7899
+ext,FR: NOTELE TV,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7900
+NRJ12.fr,FR: NRJ 12 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7902
+ext,FR NRJ 12 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7903
+NRJHits.fr,FR: NRJ HITS FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7904
+ext,FR NRJ Hits HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7905
+RMCStory.fr,FR: NUMERO 23 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7906
+OrangeCinechoc.fr,FR: OCS Choc FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7907
+OrangeCineHappy.fr,FR: OCS City FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7908
+OrangeCineGeants.fr,FR: OCS GEANT FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7909
+OrangeCinemax.fr,FR: OCS Max FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7910
+OLTV.fr,FR: OL TV HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7911
+ext,FR: ONE By HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7912
+ParisPremiere.fr,FR: Paris Premiere FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7925
+PIWI.fr,FR: Piwi+ FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7926
+PLANETEnoLIMIT.fr,FR: PLANETE+ A&E FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7927
+ext,FR PLANETE+ A&E FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7928
+PLANETEJustice.fr,FR: PLANETE+ CI FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7929
+PLANETE.fr,FR: PLANETE+ FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7930
+ext,FR: PLAY TV KIDS 1,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7931
+ext,FR: PLAY TV KIDS 2,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7932
+ext,FR: POLAR+ FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7933
+ext,FR: REDBULL TV FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7934
+ext,FR: RESTEZ 3 HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7935
+RFMTV.fr,FR: RFM TV HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7936
+ext,FR: ROUGE HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7955
+ext,FR: RT FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7956
+RTL9.fr,FR: RTL 9 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7957
+ext,FR: RTL TVI FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7958
+ext,FR: RTS 1 HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7959
+ext,FR: Science & Vie FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7960
+ext,FR Science & VIE HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7961
+Seasons.fr,FR: SEASONS FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7962
+SerieClub.fr,FR: SERIE CLUB FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7963
+ext,FR: SFR Action HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7964
+ext,FR: SFR Comedy HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7965
+ext,FR: SFR Horror HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7966
+ext,FR: SFR sci-fi HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7967
+ext,FR: SOUVENIRS FROM EARTH HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7968
+Syfy.fr,FR: SYFY FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7969
+TCM.fr,FR: TCM CINEMA FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7970
+TCM.fr,FR: TCM FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7971
+ext,FR: Teleclub Zoom HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7972
+TeleTOON.fr,FR: TELETOON+ FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7976
+ext,FR TELETOON+ HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7977
+Teva.fr,FR: TEVA FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7978
+ext,FR: TOONAMI FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7985
+TouteHistoire.fr,FR: TOUTE L HISTOIRE HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7986
+Trek.fr,FR: TREK FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/8016
+ext,FR: TV 7 HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/8017
+TVBreizh.fr,FR: TV Breizh FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/8018
+ext,FR: TV3V,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/8019
+ext,FR: TV5 MONDE INFO FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/8020
+ext,FR: TV5 Monderique,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/8021
+ext,FR: TV78,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/8023
+ext,FR: TV8 MONT BLANC HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/8024
+ext,FR: TVM3 HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/8025
+UshuaiaTV.fr,FR: USHUAIA HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/8026
+ext,FR Ushuaia HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/8027
+ext,FR: VH1 HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/8028
+ext,FR VH1 HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/8029
+ext,FR: Via Vosges HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/8030
+ext,FR: VICELAND FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/8031
+ext,FR: VOO SPORT 1,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/8032
+ext,FR VOO SPORT 1,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/8033
+VosgesTV.fr,FR: VOSGES TV,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/8034
+ext,FR: vtm 2,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/8035
+W9.fr,FR: W9 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/8036
+ext,FR: WARNER HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/8037
+ext,FR: WEO FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/8038
+
+group,FRANCE A LA CARTE
+ext,FR: A LA CARTE 1 HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7632
+ext,FR: A LA CARTE 2 HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7633
+ext,FR: A LA CARTE 3 HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7634
+ext,FR: A LA CARTE 4 HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7635
+ext,FR: A LA CARTE 5 HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7636
+ext,FR: A LA CARTE 6 HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7637
+ext,FR: A LA CARTE 7 HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7638
+ext,FR: A LA CARTE 8 HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7639
+ext,FR: A LA CARTE 9 HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7640
+ext,FR: A LA CARTE 10 HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7641
+ext,FR: A LA CARTE 11,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7642
+ext,FR: A LA CARTE 12,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7643
+ext,FR: A LA CARTE 13,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7644
+ext,FR: A LA CARTE 14,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7645
+ext,FR: A LA CARTE 15,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7646
+ext,FR: A LA CARTE 16,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7647
+ext,FR: A LA CARTE 17,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7648
+ext,FR: A LA CARTE 18,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7649
+ext,FR: A LA CARTE 19,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7650
+ext,FR: A LA CARTE 20,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7651
+
+group,FRANCE BEIN SPORTS
+beINSport1.fr,FR: beIN Sports 1 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7670
+ext,FR beIN Sports 1 HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7671
+beINSport2.fr,FR: beIN Sports 2 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7672
+ext,FR beIN Sports 2 HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7673
+beINSport3.fr,FR: beIN Sports 3 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7674
+ext,FR beIN Sports 3 HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7675
+ext,FR: beIN Sports 4 HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7676
+BeInSportMax4.fr,FR: beIN Sports Max 4 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7677
+BeInSportMax5.fr,FR: beIN Sports Max 5 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7678
+BeInSportMax6.fr,FR: beIN Sports Max 6 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7679
+BeInSportMax7.fr,FR: beIN Sports Max 7 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7680
+BeInSportMax8.fr,FR: beIN Sports Max 8 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7681
+BeInSportMax9.fr,FR: beIN Sports Max 9 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7682
+BeInSportMax10.fr,FR: beIN Sports Max 10 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7683
+ext,FR: beIN Sports 10 HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7684
+
+group,FRANCE BOX OFFICE
+ext,FR: BOX OFFICE 1,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7698
+ext,FR: BOX OFFICE 2,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7699
+ext,FR: BOX OFFICE 3,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7700
+ext,FR: BOX OFFICE 4,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7701
+ext,FR: BOX OFFICE 5,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7702
+ext,FR: BOX OFFICE 6,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7703
+ext,FR: BOX OFFICE 7,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7704
+ext,FR: BOX OFFICE 8,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7705
+ext,FR: BOX OFFICE 9,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7706
+ext,FR: BOX OFFICE 10,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7707
+ext,FR: BOX OFFICE 11,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7708
+ext,FR: BOX OFFICE 12,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7709
+ext,FR: BOX OFFICE 13,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7710
+ext,FR: BOX OFFICE 14,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7711
+ext,FR: BOX OFFICE 15,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7712
+ext,FR: BOX OFFICE ACTION,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7713
+ext,FR: BOX OFFICE ANIMATION,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7714
+ext,FR: BOX OFFICE COMEDIE,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7715
+ext,FR: BOX OFFICE Crime-DRAME,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7716
+ext,FR: BOX OFFICE HORREUR,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7717
+ext,FR: BOX OFFICE ROMANCE,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7718
+
+group,FRANCE CANAL+
+ext,FR: CANAL ALPHA FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7725
+CANALplusCINEMA.fr,FR: CANAL+ Cinema FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7746
+CANALplusDECALE.fr,FR: CANAL+ Decale HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7747
+CANALplusFamily.fr,FR: CANAL+ Family FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7748
+CANALplus.fr,FR: CANAL+ HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7749
+ext,FR: CANAL+ J FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7750
+ext,FR: CANAL+ Movies,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7751
+ext,FR: CANAL+ PREMIER,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7752
+CanalplusSeries.fr,FR: CANAL+ Series FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7753
+CANALplusSPORT.fr,FR: CANAL+ Sport FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7754
+ext,FR CANAL+ Sport FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7755
+CinecinemaClassic.fr,FR: CINE+ CLASSIC HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7762
+CinecinemaClub.fr,FR: CINE+ CLUB HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7763
+CinecinemaEmotion.fr,FR: CINE+ EMOTION HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7764
+CinecinemaFamiz.fr,FR: CINE+ FAMIZ HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7765
+CinecinemaFrisson.fr,FR: CINE+ FRISSON HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7766
+ext,FR: CINE+ FX HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7767
+CinecinemaPremier.fr,FR: CINE+ PREMIER HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7768
+CrimeDistrict.fr,FR: Crime District FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7774
+ext,FR: Crime+ Investigation HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7775
+ext,FR Crime+ Investigation HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7776
+Discovery.fr,FR: Discovery Channel FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7779
+ext,FR Discovery Channel FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7780
+ext,FR: Discovery FAMLIY HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7781
+ext,FR Discovery Family FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7782
+DiscoveryScience.fr,FR: Discovery Science FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7783
+ext,FR Discovery Science FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7784
+ext,FR: Discovery World HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7785
+
+group,FRANCE CINEMA
+ext,FR: CANAL PLAY 1 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7726
+ext,FR: CANAL PLAY 02,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7727
+ext,FR: CANAL PLAY 3 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7728
+ext,FR: CANAL PLAY 4 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7729
+ext,FR: CANAL PLAY 5 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7730
+ext,FR: CANAL PLAY 6 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7731
+ext,FR: CANAL PLAY 7 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7732
+ext,FR: CANAL PLAY 8 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7733
+ext,FR: CANAL PLAY 9 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7734
+ext,FR: CANAL PLAY 10 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7735
+ext,FR: CANAL PLAY 11 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7736
+ext,FR: CANAL PLAY 13 HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7737
+ext,FR: CANAL PLAY 14 HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7738
+ext,FR: CANAL PLAY 15 HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7739
+ext,FR: CANAL PLAY 16 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7740
+ext,FR: CANAL PLAY 17 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7741
+ext,FR: CANAL PLAY 18 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7742
+ext,FR: CANAL PLAY MULTIVISION 1 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7743
+ext,FR: CANAL PLAY MULTIVISION 2 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7744
+ext,FR: CANAL PLAY MULTIVISION 3 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7745
+ext,FR: Orange Cine 1,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7913
+ext,FR: Orange Cine 2,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7914
+ext,FR: Orange Cine 3 HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7915
+ext,FR: Orange Cine 4,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7916
+ext,FR: Orange Cine 5,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7917
+ext,FR: Orange Cine+ 4 HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7918
+ext,FR: Orange Cinema 1 HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7919
+ext,FR: Orange Cinema 4,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7920
+ext,FR: Orange Cinema HORREUR HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7921
+ext,FR: PARAMOUNT CH DECALE,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7922
+ext,FR: PARAMOUNT Channel DECALE FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7923
+ParamountChannel.fr,FR: Paramount Channel FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7924
+
+group,FRANCE DISNEY
+ext,FR: Disney Channel +1 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7786
+ext,FR Disney Channel +1 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7787
+DisneyChannel.fr,FR: Disney Channel FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7788
+ext,FR Disney Channel FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7789
+DisneyMagic.fr,FR: Disney CINEMA FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7790
+ext,FR Disney CINEMA FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7791
+DisneyJunior.fr,FR: Disney Junior FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7792
+ext,FR Disney JUNIOR FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7793
+DisneyXD.fr,FR: Disney XD FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7794
+ext,FR Disney XD FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7795
+ext,FR: Disney+ HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7796
+ext,FR Disney+ HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7797
+
+group,FRANCE SPORT
+Eurosport1.fr,FR: EUROSPORT 1 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7809
+ext,FR EUROSPORT 1 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7810
+Eurosport2.fr,FR: EUROSPORT 2 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7811
+ext,FR EUROSPORT 2 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7812
+ext,FR: EXTREME SPORT HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7813
+ext,FR: FOOT+ 24 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7815
+Foot24.fr,FR: Foot+ 24/24 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7816
+Infosport.fr,FR: INFOSPORT+ FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7837
+ext,FR: L'equipe,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7846
+
+group,FRANCE INFO
+France24fr.fr,FR: FRANCE 24 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7821
+
+group,FRANCE MTV
+ext,FR: MTV 80s HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7869
+MTVbase.fr,FR: MTV BASE,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7871
+ext,FR: MTV Club,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7872
+MTVDance.fr,FR: MTV Dance HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7873
+ext,FR MTV Dance HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7874
+MTV.fr,FR: MTV FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7875
+MTV.fr,FR: MTV France FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7876
+MTVHits.fr,FR: MTV HITS FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7877
+ext,FR MTV HITS FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7878
+ext,FR: MTV Live,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7879
+ext,FR MTV Live,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7880
+MTVMusic24.fr,FR: MTV Music,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7881
+ext,FR MTV Music,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7882
+ext,FR: MTV ROCKS HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7883
+ext,FR MTV ROCKS HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7884
+
+group,FRANCE RMC SPORTS
+RMCSport1.fr,FR: RMC SPORT 1 HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/17598
+RMCSport1.fr,FR: RMC SPORT 1 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7938
+RMCSport2.fr,FR: RMC SPORT 2 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7939
+ext,FR RMC SPORT 2 HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7940
+RMCSport3.fr,FR: RMC SPORT 3 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7941
+ext,FR RMC SPORT 3 HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7942
+RMCSport4.fr,FR: RMC SPORT 4 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7943
+ext,FR RMC SPORT 4 HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7944
+ext,FR: RMC SPORT 5 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7945
+ext,FR: RMC SPORT 7 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7946
+ext,FR: RMC SPORT 8 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7947
+ext,FR: RMC SPORT 9 HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7948
+ext,FR: RMC SPORT 10,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7949
+ext,FR: RMC SPORT 11 HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7950
+ext,FR: RMC SPORT 13 HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7951
+ext,FR: RMC SPORT max 6 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7952
+ext,FR: RMC SPORT max 10 HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7953
+ext,FR: RMC Story FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7954
+RMCdecouverte.fr,FR: RMC Decouverte FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7937
+
+group,FRANCE TELEFOOT
+ext,FR: TELEFOOT STADIUM 1 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7973
+ext,FR: TELEFOOT STADIUM 4 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7974
+ext,FR: TELEFOOT STADIUM 5 FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7975
+
+group,FRANCE TRACE TV
+TraceUrban.fr,FR: TRACE URBAN HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/8012
+ext,FR TRACE URBAN HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/8013
+ext,FR: TRACE AFRICA English,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7987
+ext,FR TRACE Africa HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7989
+ext,FR: TRACE AFRICA HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7988
+ext,FR: TRACE AFRIKORA,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7990
+ext,FR TRACE AFRIKORA,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7991
+ext,FR: TRACE AYITI HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7992
+ext,FR TRACE AYITI HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7993
+ext,FR: TRACE BRAZUCA HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7994
+ext,FR TRACE BRAZUCA HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7995
+ext,FR: TRACE Caribbean HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7996
+ext,FR: TRACE GOSPEL FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7997
+ext,FR TRACE GOSPEL FHD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7998
+ext,FR: TRACE Hits,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/7999
+ext,FR: TRACE KITOKO HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/8000
+ext,FR TRACE Kitoko,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/8001
+ext,FR: TRACE LATINA HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/8002
+ext,FR TRACE Latina HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/8003
+ext,FR: TRACE Mziki HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/8004
+ext,FR TRACE Mziki HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/8005
+ext,FR: TRACE NAIJA HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/8006
+ext,FR TRACE Naija HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/8007
+ext,FR: TRACE SPORTS STARS HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/8008
+ext,FR TRACE SPORTS STARS HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/8009
+ext,FR: TRACE TOCA HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/8010
+ext,FR TRACE Toca HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/8011
+ext,FR: TRACE Vanilla HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/8014
+ext,FR TRACE Vanilla HD,http://bestiptvchannels.com:2052/yaminoshinen/pnGvoHkktk9ukv5/8015
