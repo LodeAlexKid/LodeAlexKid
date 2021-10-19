@@ -1,8 +1,9 @@
+
 #EXTM3U
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Supermarioland-Logo.svg/800px-Supermarioland-Logo.svg.png",Super Mario Land 
-https://www.youtube.com/v/Tj2_JwVGOuQ%26hl=es%26fs=1%26autoplay=1
+https://www.youtube.com/v/<iframe width="560" height="315" src="https://www.youtube.com/embed/y-W3BQ0spm8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>%26hl=es%26fs=1%26autoplay=1
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_82sV2LQP6g/maxresdefault.jpg",Relaxing Sleep Music
