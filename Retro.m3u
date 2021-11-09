@@ -4,8 +4,8 @@
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Supermarioland-Logo.svg/800px-Supermarioland-Logo.svg.png",Super Mario 
 
-#EXTM3U
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid= Tj2_JwVGOuQ
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/oNeF6KJCsSY/hqdefault.jpg",Teaser Card Qual Sua Tribo ?
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=oNeF6KJCsSY
+Tj2_JwVGOuQ
+
 
