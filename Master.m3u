@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:0 tvg-country="Polska" tvg-logo="" group-title="général", TVP1 HD
-http://internetowa.tv/?c=hlsPlay&channel=tvp1&token=779519fdbe4f51901a3129a17ed2595d22263df7030a048949e9dbe02015be5401bbbeb9bf470f83dc036d18f8e4de271bb646110740786d06de84fee3f286de
-
-
-#EXTINF:0 tvg-country="Polska" tvg-logo="" group-title="général", TVP2 HD
-http://internetowa.tv/?c=hlsPlay&channel=tvp2&token=779519fdbe4f51901a3129a17ed2595d22263df7030a048949e9dbe02015be5401bbbeb9bf470f83dc036d18f8e4de271bb646110740786d06de84fee3f286de
