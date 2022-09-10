@@ -8,4 +8,8 @@ https://www.youtube.com/api/stats/watchtime?ns=yt&el=detailpage&cpn=JbSYXpZ0mTe1
 
 
 #EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/legend-of-zelda-a-link-to-the-past-original-soundtrack/Legend_of_Zelda_3_-_SNES_-_Album_Art.jpg",Legend Of Zelda OST
-https://player.odycdn.com/api/v4/streams/free/the-legend-of-zelda/10c0fb876508e10b7c48d63e79beb1d4f91282f6/cc5532.m3u8
+https://player.odycdn.com/api/v4/streams/free/main-theme-the-legend-of-zelda/7e04090893785c3aa75bafa7cf8fc6d4abbd7dd0/1a7424.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/legend-of-zelda-a-link-to-the-past-original-soundtrack/Legend_of_Zelda_3_-_SNES_-_Album_Art.jpg",Legend Of Zelda OST2
+https://player.odycdn.com/api/v4/streams/free/overworld-the-legend-of-zelda/54dd09f16012c45b7cdf0c4f64816df0e21a7474/696893.m3u8
