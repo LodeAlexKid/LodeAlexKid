@@ -1,5 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/frstarwars/images/c/c5/Andor_Season_One_Episode_1.png" group-title="Andor Saison 1",Episode 1 Kassa  
+#EXTINF:-1  group-title="Andor Saison 1",Episode 1 Kassa  
+tvg-logo="https://static.wikia.nocookie.net/frstarwars/images/c/c5/Andor_Season_One_Episode_1.png"
 https://player.odycdn.com/api/v4/streams/free/Andor.S01E01/b29621ef6510e9bcb1df59235147c3515ad26bde/45956c.m3u
