@@ -1,6 +1,22 @@
-#EXTM3U
+#EXTM3U   
 
-
-#EXTINF:-1  group-title="Andor Saison 1",Episode 1 Kassa  
+#EXTINF:-1  group-title="Andor Saison 1",Episode 1-Kassa  
 tvg-logo="https://static.wikia.nocookie.net/frstarwars/images/c/c5/Andor_Season_One_Episode_1.png"
 https://player.odycdn.com/api/v4/streams/free/Andor.S01E01/b29621ef6510e9bcb1df59235147c3515ad26bde/45956c.m3u
+
+#EXTINF:-1  group-title="Andor Saison 1",Episode 2-That Would Be Me 
+https://player.odycdn.com/api/v4/streams/free/Andor.s01e02./583ce6e7e8c5c86e5be112517dae610cd27600ac/7c3ed5.m3u
+
+#EXTINF:-1  group-title="Andor Saison 1",Episode 3-Reckoning   
+https://player.odycdn.com/api/v4/streams/free/Andor.S01E03/1ba11bed19c80e80d831d8e35518f8b1ab8e96aa/26eb8b.m3u
+
+#EXTINF:-1  group-title="Andor Saison 1",Episode 4-Aldhani  
+https://player.odycdn.com/api/v4/streams/free/Andor.S01E04/d2e92ba8d0e3400ecdbebe9078423333cd5bc91c/95a55c.m3u
+
+#EXTINF:-1  group-title="Andor Saison 1",Episode 5-The Axe Forgets  
+https://player.odycdn.com/api/v4/streams/free/Andor.S01E05./67485a8e563d33e026b42813674db0b844c58dbe/1f1455.m3u
+
+
+
+
+/andor:41
