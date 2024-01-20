@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="TF1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="CanalSat",TF1
+#EXTINF:-1 tvg-id="" tvg-name="TF1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="CanaalSat",TF1
 http://flusonic-4.platinum-tv.com/TF1/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="" tvg-name="TF1 Series Films" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/TF1_S%C3%A9ries_Films.svg/1200px-TF1_S%C3%A9ries_Films.svg.png" group-title="CanalSat",TF1 Series Films
