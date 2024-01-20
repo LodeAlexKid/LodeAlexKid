@@ -291,11 +291,11 @@ https://cdn-main.lolokoko.tv/DiscoPoloMusic.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.polsatbox.pl/img/homepage/logo/big/vox-music-tv.jpg" group-title="Polska",Vox Music TV
 https://cdn-main.lolokoko.tv/VoxMusic.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/TVS_Logo.svg" group-title="Polska",TVS
+#EXTINF:-1 tvg-logo="" group-title="Polska",TVS
 https://cdn-main.lolokoko.tv/TVS.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/TVP_Info.svg" group-title="Polska",TVP Info
+#EXTINF:-1 tvg-logo="" group-title="Polska",TVP Info
 https://cdn-main.lolokoko.tv/TVPInfo.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Polska",TVP Sport
@@ -313,13 +313,13 @@ https://cdn-main.lolokoko.tv/TVPPolonia.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Polska",TVP ABC
 https://cdn-main.lolokoko.tv/TVPABC.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Polska",Polsat Doku
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Polsat_Doku_2021_gradient.svg/800px-Polsat_Doku_2021_gradient.svg.png" group-title="Polska",Polsat Doku
 https://cdn-main.lolokoko.tv/PolsatDoku.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Polska",Polsat Café
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Polsat_Caf%C3%A9_2021_gradient.svg/800px-Polsat_Caf%C3%A9_2021_gradient.svg.png" group-title="Polska",Polsat Café
 https://cdn-main.lolokoko.tv/PolsatCafe.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Polska",Polsat News
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Polsat_News_2021_gradient.svg/800px-Polsat_News_2021_gradient.svg.png" group-title="Polska",Polsat News
 https://cdn-main.lolokoko.tv/PolsatNews.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Polska",Polsat News 2
