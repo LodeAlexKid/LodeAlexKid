@@ -291,7 +291,7 @@ https://cdn-main.lolokoko.tv/DiscoPoloMusic.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.polsatbox.pl/img/homepage/logo/big/vox-music-tv.jpg" group-title="Polska",Vox Music TV
 https://cdn-main.lolokoko.tv/VoxMusic.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/poland/tvs-pl.png" group-title="Polska",TVS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/TVS_%28Fernsehsender%29_Logo.svg/1024px-TVS_%28Fernsehsender%29_Logo.svg.png" group-title="Polska",TVS
 https://cdn-main.lolokoko.tv/TVS.stream/playlist.m3u8
 
 
