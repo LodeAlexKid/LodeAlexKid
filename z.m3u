@@ -310,7 +310,7 @@ https://cdn-main.lolokoko.tv/TVPHistoria.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/TVP_polonia_60_%281%29.svg/1920px-TVP_polonia_60_%281%29.svg.png" group-title="Polska",TVP Polonia
 https://cdn-main.lolokoko.tv/TVPPolonia.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Tvp-abc-v2.svg/1024px-Tvp-abc-v2.svg.png" group-title="Polska",TVP ABC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/TVPabc_60.svg/1024px-TVPabc_60.svg.png" group-title="Polska",TVP ABC
 https://cdn-main.lolokoko.tv/TVPABC.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Polsat_Doku_2021_gradient.svg/800px-Polsat_Doku_2021_gradient.svg.png" group-title="Polska",Polsat Doku
@@ -379,7 +379,7 @@ https://cdn-main.lolokoko.tv/DaVinci.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Polska",NICKELODEON
 https://cdn-main.lolokoko.tv/NICKELODEON.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Polska",EskaTVExtra HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/EskaTV_logo_2011.png" group-title="Polska",EskaTVExtra HD
 https://cdn-main.lolokoko.tv/EskaTVExtra.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/13_Ulica_HD_655.jpg" group-title="Polska",13 Ulica
@@ -397,7 +397,7 @@ https://cdn-main.lolokoko.tv/axnblack.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Polska",tvpabc
 https://cdn-main.lolokoko.tv/tvpabc.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Polska",filmboxfamily
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Filmbox_family.png" group-title="Polska",filmboxfamily
 https://cdn-main.lolokoko.tv/filmboxfamily.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Polska",ParamountChannel HD
@@ -410,7 +410,7 @@ https://cdn-main.lolokoko.tv/polsatsport.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Polsat_Caf%C3%A9_2021_gradient.svg/800px-Polsat_Caf%C3%A9_2021_gradient.svg.png" group-title="Polska",polsatcafe HD
 https://cdn-main.lolokoko.tv/polsatcafe.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Polska",FoodNetwork HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/PolsatFoodNetwork.jpg" group-title="Polska",FoodNetwork HD
 https://cdn-main.lolokoko.tv/FoodNetwork.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Polsat_Play_2021_gradient.svg/800px-Polsat_Play_2021_gradient.svg.png" group-title="Polska",polsatplay HD
@@ -529,7 +529,7 @@ https://cdn-main.lolokoko.tv/SuperPolsat.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/007-TVN7-HD.png"group-title="Polska",TVN7 HD
 https://cdn-main.lolokoko.tv/TVN7.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="Polska",TVN HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/TVN-HD_logo.png"group-title="Polska",TVN HD
 https://cdn-main.lolokoko.tv/TVN.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/TVP2_HD_logo.svg/1920px-TVP2_HD_logo.svg.png"group-title="Polska",TVP2 HD
