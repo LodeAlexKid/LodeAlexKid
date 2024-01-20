@@ -1361,7 +1361,7 @@ http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233533.ts
 
 
 
-#EXTINF:-1,PL: 13 Ulica
+#EXTINF:-1 group-title="POLOGNE",13 Ulica
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233865.ts
 #EXTINF:-1,PL: 4Fun Dance
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233866.ts
@@ -1780,7 +1780,7 @@ http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/234071.ts
 
 
 
-#EXTINF:-1,RU: .Black
+#EXTINF:-1 group-title="Russie",Black
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240208.ts
 #EXTINF:-1,RU: .Red
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240209.ts
@@ -2440,146 +2440,153 @@ http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240535.ts
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240536.ts
 #EXTINF:-1,RU: ONT (???)
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/241568.ts
-#EXTINF:-1,UKR: 4 ?????
+
+
+
+#EXTINF:-1 group-title="UKRAINE",4 ?????
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240599.ts
-#EXTINF:-1,UKR: 5 Kanal (5 ?????)
+#EXTINF:-1 group-title="UKRAINE",5 Kanal (5 ?????)
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240600.ts
-#EXTINF:-1,UKR: 7 ?????
+#EXTINF:-1 group-title="UKRAINE",7 ?????
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240601.ts
-#EXTINF:-1,UKR: 1+1 International
+#EXTINF:-1 group-title="UKRAINE",1+1 International
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240602.ts
-#EXTINF:-1,UKR: 1+1 Maraton
+#EXTINF:-1 group-title="UKRAINE",1+1 Maraton
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240603.ts
-#EXTINF:-1,UKR: 1+1 ?????
+#EXTINF:-1 group-title="UKRAINE",1+1 ?????
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240604.ts
-#EXTINF:-1,UKR: 1+1 ???????
+#EXTINF:-1 group-title="UKRAINE",1+1 ???????
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240605.ts
-#EXTINF:-1,UKR: 100% News
+#EXTINF:-1 group-title="UKRAINE",100% News
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240606.ts
-#EXTINF:-1,UKR: 2+2
+#EXTINF:-1 group-title="UKRAINE",2+2
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240607.ts
-#EXTINF:-1,UKR: 24 Kanal
+#EXTINF:-1 group-title="UKRAINE",24 Kanal
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240608.ts
-#EXTINF:-1,UKR: 34 Telekanal
+#EXTINF:-1 group-title="UKRAINE",34 Telekanal
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240609.ts
-#EXTINF:-1,UKR: AMC
+#EXTINF:-1 group-title="UKRAINE",AMC
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240610.ts
-#EXTINF:-1,UKR: Apostrof TV (???????? TV)
+#EXTINF:-1 group-title="UKRAINE",Apostrof TV (???????? TV)
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240611.ts
-#EXTINF:-1,UKR: ATR
+#EXTINF:-1 group-title="UKRAINE",ATR
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240612.ts
-#EXTINF:-1,UKR: Avers (?????)
+#EXTINF:-1 group-title="UKRAINE",Avers (?????)
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240613.ts
-#EXTINF:-1,UKR: Bambarbia TV
+#EXTINF:-1 group-title="UKRAINE",Bambarbia TV
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240614.ts
-#EXTINF:-1,UKR: Bigudi
+#EXTINF:-1 group-title="UKRAINE",Bigudi
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240615.ts
-#EXTINF:-1,UKR: Dnipro TV
+#EXTINF:-1 group-title="UKRAINE",Dnipro TV
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240616.ts
-#EXTINF:-1,UKR: Enter Film
+#EXTINF:-1 group-title="UKRAINE",Enter Film
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240617.ts
-#EXTINF:-1,UKR: Espreso TV
+#EXTINF:-1 group-title="UKRAINE",Espreso TV
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240618.ts
-#EXTINF:-1,UKR: Fashion & Lifestyle
+#EXTINF:-1 group-title="UKRAINE",Fashion & Lifestyle
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240619.ts
-#EXTINF:-1,UKR: Freedom
+#EXTINF:-1 group-title="UKRAINE",Freedom
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240620.ts
-#EXTINF:-1,UKR: ICTV
+#EXTINF:-1 group-title="UKRAINE",ICTV
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240621.ts
-#EXTINF:-1,UKR: Inshyi
+#EXTINF:-1 group-title="UKRAINE",Inshyi
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240622.ts
-#EXTINF:-1,UKR: Inter
+#EXTINF:-1 group-title="UKRAINE",Inter
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240623.ts
-#EXTINF:-1,UKR: K1
+#EXTINF:-1 group-title="UKRAINE",K1
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240624.ts
-#EXTINF:-1,UKR: K2
+#EXTINF:-1 group-title="UKRAINE",K2
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240625.ts
-#EXTINF:-1,UKR: kvartal TV
+#EXTINF:-1 group-title="UKRAINE",kvartal TV
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240626.ts
-#EXTINF:-1,UKR: Lale
+#EXTINF:-1 group-title="UKRAINE",Lale
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240627.ts
-#EXTINF:-1,UKR: Lugansk 24
+#EXTINF:-1 group-title="UKRAINE",Lugansk 24
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240628.ts
-#EXTINF:-1,UKR: M1
+#EXTINF:-1 group-title="UKRAINE",M1
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240629.ts
-#EXTINF:-1,UKR: M2
+#EXTINF:-1 group-title="UKRAINE",M2
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240630.ts
-#EXTINF:-1,UKR: Mega
+#EXTINF:-1 group-title="UKRAINE",Mega
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240631.ts
-#EXTINF:-1,UKR: Milady TV
+#EXTINF:-1 group-title="UKRAINE",Milady TV
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240632.ts
-#EXTINF:-1,UKR: MTM
+#EXTINF:-1 group-title="UKRAINE",MTM
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240633.ts
-#EXTINF:-1,UKR: Novy Kanal
+#EXTINF:-1 group-title="UKRAINE",Novy Kanal
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240634.ts
-#EXTINF:-1,UKR: NTN
+#EXTINF:-1 group-title="UKRAINE",NTN
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240635.ts
-#EXTINF:-1,UKR: Oce
+#EXTINF:-1 group-title="UKRAINE",Oce
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240636.ts
-#EXTINF:-1,UKR: Oplot TV (????? ??)
+#EXTINF:-1 group-title="UKRAINE",Oplot TV 
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240637.ts
-#EXTINF:-1,UKR: Pershiy
+v#EXTINF:-1 group-title="UKRAINE",Pershiy
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240638.ts
-#EXTINF:-1,UKR: Perviy Gorodskoy
+#EXTINF:-1 group-title="UKRAINE",Perviy Gorodskoy
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240639.ts
-#EXTINF:-1,UKR: Pervyy Respublikanskiy (?????? ???????????????)
+#EXTINF:-1 group-title="UKRAINE",Pervyy Respublikanskiy 
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240640.ts
-#EXTINF:-1,UKR: Plus Plus
+#EXTINF:-1 group-title="UKRAINE",Plus Plus
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240641.ts
-#EXTINF:-1,UKR: Pravda Tut
+#EXTINF:-1 group-title="UKRAINE",Pravda Tut
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240642.ts
-#EXTINF:-1,UKR: Pryamyy (????)
+#EXTINF:-1 group-title="UKRAINE",Pryamyy (????)
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240643.ts
-#EXTINF:-1,UKR: Rada (????)
+#EXTINF:-1 group-title="UKRAINE",Rada (????)
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240644.ts
-#EXTINF:-1,UKR: Radio NV
+#EXTINF:-1 group-title="UKRAINE",Radio NV
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240645.ts
-#EXTINF:-1,UKR: Setanta Sports
+#EXTINF:-1 group-title="UKRAINE",Setanta Sports
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240646.ts
-#EXTINF:-1,UKR: Setanta Sports 1
+#EXTINF:-1 group-title="UKRAINE",Setanta Sports 1
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240647.ts
-#EXTINF:-1,UKR: Setanta Sports 2
+#EXTINF:-1 group-title="UKRAINE",Setanta Sports 2
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240648.ts
-#EXTINF:-1,UKR: Sonce
+#EXTINF:-1 group-title="UKRAINE",Sonce
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240649.ts
-#EXTINF:-1,UKR: Star Cinema
+#EXTINF:-1 group-title="UKRAINE",Star Cinema
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240650.ts
-#EXTINF:-1,UKR: Star Family
+#EXTINF:-1 group-title="UKRAINE",Star Family
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240651.ts
-#EXTINF:-1,UKR: Svarozhichi
+#EXTINF:-1 group-title="UKRAINE",Svarozhichi
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240652.ts
-#EXTINF:-1,UKR: Telekanal Nadiya (???????)
+#EXTINF:-1 group-title="UKRAINE",Telekanal Nadiya (???????)
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240653.ts
-#EXTINF:-1,UKR: Telekanal STB
+#EXTINF:-1 group-title="UKRAINE",Telekanal STB
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240654.ts
-#EXTINF:-1,UKR: Ternopil 1
+#EXTINF:-1 group-title="UKRAINE",Ternopil 1
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240655.ts
-#EXTINF:-1,UKR: TET
+#EXTINF:-1 group-title="UKRAINE",TET
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240656.ts
-#EXTINF:-1,UKR: TV 7+
+#EXTINF:-1 group-title="UKRAINE",TV 7+
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240657.ts
-#EXTINF:-1,UKR: TVA
+#EXTINF:-1 group-title="UKRAINE",TVA
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240658.ts
-#EXTINF:-1,UKR: Ukraine 1
+#EXTINF:-1 group-title="UKRAINE",Ukraine 1
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240659.ts
-#EXTINF:-1,UKR: Ukraine 24
+#EXTINF:-1 group-title="UKRAINE",Ukraine 24
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240660.ts
-#EXTINF:-1,UKR: Unian TV
+#EXTINF:-1 group-title="UKRAINE",Unian TV
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240661.ts
-#EXTINF:-1,UKR: X Sport
+#EXTINF:-1 group-title="UKRAINE",X Sport
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240662.ts
-#EXTINF:-1,UKR: ZOOM
+#EXTINF:-1 group-title="UKRAINE",ZOOM
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240663.ts
-#EXTINF:-1,UKR: ????
+#EXTINF:-1 group-title="UKRAINE",????
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240664.ts
-#EXTINF:-1,UKR: ??????? ??
+#EXTINF:-1 group-title="UKRAINE",??????? ??
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240665.ts
-#EXTINF:-1,UKR: ????? TV
+#EXTINF:-1 group-title="UKRAINE",????? TV
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240666.ts
-#EXTINF:-1,UKR: ???
+#EXTINF:-1 group-title="UKRAINE",???
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240667.ts
-#EXTINF:-1,UKR: ???????????? ???????
+#EXTINF:-1 group-title="UKRAINE",???????????? ???????
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240668.ts
+
+
+
+
 #EXTINF:-1,CZ: AMC
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240701.ts
 #EXTINF:-1,CZ: ANIMAL PLANET
@@ -2750,30 +2757,6 @@ http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240783.ts
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240784.ts
 #EXTINF:-1,CZ: Wau TV
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240785.ts
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -3211,201 +3194,201 @@ http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240597.ts
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240598.ts
 
 
-#EXTINF:-1,KR: AniPlus
+#EXTINF:-1 group-title="KOREA",AniPlus
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240831.ts
-#EXTINF:-1,KR: Arirang
+#EXTINF:-1 group-title="KOREA",Arirang
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240832.ts
-#EXTINF:-1,KR: Arirang Radio
+#EXTINF:-1 group-title="KOREA",Arirang Radio
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240833.ts
-#EXTINF:-1,KR: BBS
+#EXTINF:-1 group-title="KOREA",BBS
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240834.ts
-#EXTINF:-1,KR: CBS
+#EXTINF:-1 group-title="KOREA",CBS
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240835.ts
-#EXTINF:-1,KR: CGN TV
+#EXTINF:-1 group-title="KOREA",CGN TV
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240836.ts
-#EXTINF:-1,KR: CJB
+#EXTINF:-1 group-title="KOREA",CJB
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240837.ts
-#EXTINF:-1,KR: CPBC TV
+#EXTINF:-1 group-title="KOREA",CPBC TV
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240838.ts
-#EXTINF:-1,KR: CTS
+#EXTINF:-1 group-title="KOREA",CTS
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240839.ts
-#EXTINF:-1,KR: EBS 1
+#EXTINF:-1 group-title="KOREA",EBS 1
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240840.ts
-#EXTINF:-1,KR: EBS 2
+#EXTINF:-1 group-title="KOREA",EBS 2
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240841.ts
-#EXTINF:-1,KR: EBS e
+#EXTINF:-1 group-title="KOREA",EBS e
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240842.ts
-#EXTINF:-1,KR: EBS Kids
+#EXTINF:-1 group-title="KOREA",EBS Kids
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240843.ts
-#EXTINF:-1,KR: EBS Plus 1
+#EXTINF:-1 group-title="KOREA",EBS Plus 1
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240844.ts
-#EXTINF:-1,KR: EBS Plus 2
+#EXTINF:-1 group-title="KOREA",EBS Plus 2
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240845.ts
-#EXTINF:-1,KR: Edaily TV
+#EXTINF:-1 group-title="KOREA",Edaily TV
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240846.ts
-#EXTINF:-1,KR: FGTV
+#EXTINF:-1 group-title="KOREA",FGTV
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240847.ts
-#EXTINF:-1,KR: GCN
+#EXTINF:-1 group-title="KOREA",GCN
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240848.ts
-#EXTINF:-1,KR: GS Shop
+#EXTINF:-1 group-title="KOREA",GS Shop
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240849.ts
-#EXTINF:-1,KR: Gugak FM (????)
+#EXTINF:-1 group-title="KOREA",Gugak FM (????)
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240850.ts
-#EXTINF:-1,KR: Home & Shopping
+#EXTINF:-1 group-title="KOREA",Home & Shopping
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240851.ts
-#EXTINF:-1,KR: Hyundai Home Shopping
+#EXTINF:-1 group-title="KOREA",Hyundai Home Shopping
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240852.ts
-#EXTINF:-1,KR: IFM 90.7 MHz
+#EXTINF:-1 group-title="KOREA",IFM 90.7 MHz
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240853.ts
-#EXTINF:-1,KR: KBC
+#EXTINF:-1 group-title="KOREA",KBC
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240854.ts
-#EXTINF:-1,KR: KBS Live Dokdo
+#EXTINF:-1 group-title="KOREA",KBS Live Dokdo
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240855.ts
-#EXTINF:-1,KR: KBS World
+#EXTINF:-1 group-title="KOREA",KBS World
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240856.ts
-#EXTINF:-1,KR: KCTV
+#EXTINF:-1 group-title="KOREA",KCTV
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240857.ts
-#EXTINF:-1,KR: KFN TV
+#EXTINF:-1 group-title="KOREA",KFN TV
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240858.ts
-#EXTINF:-1,KR: Kplus
+#EXTINF:-1 group-title="KOREA",Kplus
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240859.ts
-#EXTINF:-1,KR: MBC Yeosu
+#EXTINF:-1 group-title="KOREA",MBC Yeosu
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240860.ts
-#EXTINF:-1,KR: MTN
+#EXTINF:-1 group-title="KOREA",MTN
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240861.ts
-#EXTINF:-1,KR: NBS
+#EXTINF:-1 group-title="KOREA",NBS
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240862.ts
-#EXTINF:-1,KR: NHTV
+#EXTINF:-1 group-title="KOREA",NHTV
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240863.ts
-#EXTINF:-1,KR: NS Home Shopping
+#EXTINF:-1 group-title="KOREA",NS Home Shopping
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240864.ts
-#EXTINF:-1,KR: SBS Golf
+#EXTINF:-1 group-title="KOREA",SBS Golf
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240865.ts
-#EXTINF:-1,KR: SBS JIBS
+#EXTINF:-1 group-title="KOREA",SBS JIBS
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240866.ts
-#EXTINF:-1,KR: SBS M
+#EXTINF:-1 group-title="KOREA",SBS M
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240867.ts
-#EXTINF:-1,KR: SBS Plus
+#EXTINF:-1 group-title="KOREA",SBS Plus
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240868.ts
-#EXTINF:-1,KR: SBS Sport
+#EXTINF:-1 group-title="KOREA",SBS Sport
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240869.ts
-#EXTINF:-1,KR: SBS TJB
+#EXTINF:-1 group-title="KOREA",SBS TJB
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240870.ts
-#EXTINF:-1,KR: SBS UBC
+#EXTINF:-1 group-title="KOREA",SBS UBC
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240871.ts
-#EXTINF:-1,KR: TV Work Net
+#EXTINF:-1 group-title="KOREA",TV Work Net
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240872.ts
-#EXTINF:-1,KR: TVN
+#EXTINF:-1 group-title="KOREA",TVN
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240873.ts
-#EXTINF:-1,KR: TVN Movies
+#EXTINF:-1 group-title="KOREA",TVN Movies
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240874.ts
-#EXTINF:-1,KR: YTN Science
+#EXTINF:-1 group-title="KOREA",YTN Science
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/240875.ts
 
 
-#EXTINF:-1,BE: AB 3
+#EXTINF:-1 group-title="BELGIQUE",AB 3
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233419.ts
-#EXTINF:-1,BE: AB Xplore
+#EXTINF:-1 group-title="BELGIQUE",AB Xplore
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233420.ts
-#EXTINF:-1,BE: ATV
+#EXTINF:-1 group-title="BELGIQUE",ATV
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233421.ts
-#EXTINF:-1,BE: Bel RTL
+#EXTINF:-1 group-title="BELGIQUE",Bel RTL
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233422.ts
-#EXTINF:-1,BE: Boomerang
+#EXTINF:-1 group-title="BELGIQUE",Boomerang
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233423.ts
-#EXTINF:-1,BE: bx1 Redif
+#EXTINF:-1 group-title="BELGIQUE",bx1 Redif
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233424.ts
-#EXTINF:-1,BE: Canal Atlas
+#EXTINF:-1 group-title="BELGIQUE",Canal Atlas
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233425.ts
-#EXTINF:-1,BE: Canvas
+#EXTINF:-1 group-title="BELGIQUE",Canvas
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233426.ts
-#EXTINF:-1,BE: City Music
+#EXTINF:-1 group-title="BELGIQUE",City Music
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233427.ts
-#EXTINF:-1,BE: EbS+
+#EXTINF:-1 group-title="BELGIQUE",EbS+
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233428.ts
-#EXTINF:-1,BE: Een
+#EXTINF:-1 group-title="BELGIQUE",Een
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233429.ts
-#EXTINF:-1,BE: ELEVEN SPORTS 1
+#EXTINF:-1 group-title="BELGIQUE",ELEVEN SPORTS 1
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233430.ts
-#EXTINF:-1,BE: ELEVEN SPORTS 2
+#EXTINF:-1 group-title="BELGIQUE",ELEVEN SPORTS 2
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233431.ts
-#EXTINF:-1,BE: ELEVEN SPORTS 3
+#EXTINF:-1 group-title="BELGIQUE",ELEVEN SPORTS 3
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233432.ts
-#EXTINF:-1,BE: FashionTV
+#EXTINF:-1 group-title="BELGIQUE",FashionTV
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233433.ts
-#EXTINF:-1,BE: JimJam
+#EXTINF:-1 group-title="BELGIQUE",JimJam
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233434.ts
-#EXTINF:-1,BE: Ketnet
+#EXTINF:-1 group-title="BELGIQUE",Ketnet
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233435.ts
-#EXTINF:-1,BE: Ketnet Junior
+#EXTINF:-1 group-title="BELGIQUE",Ketnet Junior
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233436.ts
-#EXTINF:-1,BE: La Une
+#EXTINF:-1 group-title="BELGIQUE",La Une
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233437.ts
-#EXTINF:-1,BE: LN 24
+#EXTINF:-1 group-title="BELGIQUE",LN 24
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233438.ts
-#EXTINF:-1,BE: Matele
+#EXTINF:-1 group-title="BELGIQUE",Matele
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233439.ts
-#EXTINF:-1,BE: Ment
+#EXTINF:-1 group-title="BELGIQUE",Ment
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233440.ts
-#EXTINF:-1,BE: MNM
+#EXTINF:-1 group-title="BELGIQUE",MNM
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233441.ts
-#EXTINF:-1,BE: Nat Geo
+#EXTINF:-1 group-title="BELGIQUE",Nat Geo
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233442.ts
-#EXTINF:-1,BE: Nat Geo Wild
+#EXTINF:-1 group-title="BELGIQUE",Nat Geo Wild
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233443.ts
-#EXTINF:-1,BE: Notele
+#EXTINF:-1 group-title="BELGIQUE",Notele
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233444.ts
-#EXTINF:-1,BE: Ouftivi
+#EXTINF:-1 group-title="BELGIQUE",Ouftivi
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233445.ts
-#EXTINF:-1,BE: Petange Info TV (Luxembourg)
+#EXTINF:-1 group-title="BELGIQUE",Petange Info TV (Luxembourg)
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233446.ts
-#EXTINF:-1,BE: Play 4
+#EXTINF:-1 group-title="BELGIQUE",Play 4
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233447.ts
-#EXTINF:-1,BE: Play 5
+#EXTINF:-1 group-title="BELGIQUE",Play 5
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233448.ts
-#EXTINF:-1,BE: Play 6
+#EXTINF:-1 group-title="BELGIQUE",Play 6
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233449.ts
-#EXTINF:-1,BE: Play 7
+#EXTINF:-1 group-title="BELGIQUE",Play 7
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233450.ts
-#EXTINF:-1,BE: Play Sports 1
+#EXTINF:-1 group-title="BELGIQUE",Play Sports 1
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233451.ts
-#EXTINF:-1,BE: Play Sports 2
+#EXTINF:-1 group-title="BELGIQUE",Play Sports 2
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233452.ts
-#EXTINF:-1,BE: Play Sports 3
+#EXTINF:-1 group-title="BELGIQUE",Play Sports 3
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233453.ts
-#EXTINF:-1,BE: Play Sports GOLF
+#EXTINF:-1 group-title="BELGIQUE",Play Sports GOLF
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233454.ts
-#EXTINF:-1,BE: Q music Vlaanderen
+#EXTINF:-1 group-title="BELGIQUE",Q music Vlaanderen
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233455.ts
-#EXTINF:-1,BE: Radio Pros
+#EXTINF:-1 group-title="BELGIQUE", Radio Pros
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233456.ts
-#EXTINF:-1,BE: Rob TV Leuven
+#EXTINF:-1 group-title="BELGIQUE",Rob TV Leuven
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233457.ts
-#EXTINF:-1,BE: RTL Club
+#EXTINF:-1 group-title="BELGIQUE",RTL Club
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233458.ts
-#EXTINF:-1,BE: RTL Luxembourg
+#EXTINF:-1 group-title="BELGIQUE",RTL Luxembourg
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233459.ts
-#EXTINF:-1,BE: RTL Luxembourg Zwee
+#EXTINF:-1 group-title="BELGIQUE",RTL Luxembourg Zwee
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233460.ts
-#EXTINF:-1,BE: RTL Plug
+#EXTINF:-1 group-title="BELGIQUE",RTL Plug
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233461.ts
-#EXTINF:-1,BE: Tipik
+#EXTINF:-1 group-title="BELGIQUE",Tipik
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233462.ts
-#EXTINF:-1,BE: TVO
+#EXTINF:-1 group-title="BELGIQUE",TVO
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233463.ts
-#EXTINF:-1,BE: Voo Sport World
+#EXTINF:-1 group-title="BELGIQUE", Voo Sport World
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233464.ts
-#EXTINF:-1,BE: Voo Sport World 3
+#EXTINF:-1 group-title="BELGIQUE", Voo Sport World 3
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233465.ts
-#EXTINF:-1,BE: VTM
+#EXTINF:-1 group-title="BELGIQUE", VTM
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233466.ts
-#EXTINF:-1,BE: VTM 2
+#EXTINF:-1 group-title="BELGIQUE",VTM 2
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233467.ts
-#EXTINF:-1,BE: VTM 3
+#EXTINF:-1 group-title="BELGIQUE",VTM 3
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233468.ts
-#EXTINF:-1,BE: VTM 4
+#EXTINF:-1 group-title="BELGIQUE",VTM 4
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233469.ts
-#EXTINF:-1,BE: VTM Gold
+#EXTINF:-1 group-title="BELGIQUE",VTM Gold
 http://tetoo219.188c4ij.pw:80/live/guvensak/avusturya.130522m/233470.ts
 
 
