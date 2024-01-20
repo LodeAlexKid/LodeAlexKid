@@ -282,20 +282,20 @@ http://supersonictv.live:8080/287156/Ws26st6/84933
 http://supersonictv.live:8080/287156/Ws26st6/84934
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GEJZjRB.png" group-title="Polska",Polo Tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Pollotgvg.png" group-title="Polska",Polo Tv
 https://cdn-main.lolokoko.tv/PoloTV.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Polska",Disco Polo Music
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Disco_Polo_Music_TV_logo.png" group-title="Polska",Disco Polo Music
 https://cdn-main.lolokoko.tv/DiscoPoloMusic.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Polska",Vox Music TV
+#EXTINF:-1 tvg-logo="https://www.polsatbox.pl/img/homepage/logo/big/vox-music-tv.jpg" group-title="Polska",Vox Music TV
 https://cdn-main.lolokoko.tv/VoxMusic.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Polska",TVS
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/TVS_Logo.svg" group-title="Polska",TVS
 https://cdn-main.lolokoko.tv/TVS.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="Polska",TVP Info
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/TVP_Info.svg" group-title="Polska",TVP Info
 https://cdn-main.lolokoko.tv/TVPInfo.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Polska",TVP Sport
